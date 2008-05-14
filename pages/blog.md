@@ -18,6 +18,8 @@ http://blog.livedoor.jp/emsdpr/?mail
 
 - SPAMが多いですね
 
+- 素敵なブログですね！
+
 ## 2008-05-08
 ブログ終わりました
 ### 1 comment
