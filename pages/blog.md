@@ -1,4 +1,4 @@
-<embed width="728" height="90" align="middle" pluginspage="http://www.macromedia.com/go/getflashplayer" type="application/x-shockwave-flash" allowscriptaccess="sameDomain" name="amnlarge_mx" bgcolor="#ffffff" quality="high" src="http://ad.agilemedia.jp/embed/swf/AMN-LB-3rd_mailnews.swf?clickTAG=http://ad.agilemedia.jp/embed/click.php/S1UwNjQ3UDA0AwA"/>
+![ad](http://gyazo.com/139139aec74d1e0efbf60cc8e27cad40.png)
 
 # blog
 ## 2008-05-09
