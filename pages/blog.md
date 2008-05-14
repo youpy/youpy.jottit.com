@@ -34,4 +34,5 @@ http://blog.livedoor.jp/emsdpr/?mail
 ## 2008-05-07
 ブログ始めました
 
+![ad](http://gyazo.com/311bf1c226035174353b251bb21ea9c2.png)
 
