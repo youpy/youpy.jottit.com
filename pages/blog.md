@@ -1,6 +1,8 @@
 ![ad](http://gyazo.com/139139aec74d1e0efbf60cc8e27cad40.png)
 
 # blog
+## 2008-05-15
+![blog](http://www.seibug.co.jp/image1.gif)
 ## 2008-05-09
 ブログ再開しました
 ### 3 comments
