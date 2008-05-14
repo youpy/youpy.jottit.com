@@ -1,3 +1,5 @@
+<embed width="728" height="90" align="middle" pluginspage="http://www.macromedia.com/go/getflashplayer" type="application/x-shockwave-flash" allowscriptaccess="sameDomain" name="amnlarge_mx" bgcolor="#ffffff" quality="high" src="http://ad.agilemedia.jp/embed/swf/AMN-LB-3rd_mailnews.swf?clickTAG=http://ad.agilemedia.jp/embed/click.php/S1UwNjQ3UDA0AwA"/>
+
 # blog
 ## 2008-05-09
 ブログ再開しました
@@ -19,6 +21,11 @@ http://blog.livedoor.jp/emsdpr/?mail
 - SPAMが多いですね
 
 - 素敵なブログですね！
+### 1 trackback
+
+さびしいよおぉ・・・ (from Ｍ女　沙智子 奴隷日記)
+
+- やっぱさびしい・・・ 誰かに会いたい・・・ メールちょうだい。 沙智子　Ｍ女　東......more 
 
 ## 2008-05-08
 ブログ終わりました
