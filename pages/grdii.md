@@ -1,2 +1,4 @@
+<div style="padding:10px;font-size:50%;line-height:150%;border:1px solid blue;border-left:10px solid blue;"><img src="http://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Gnome_globe_current_event.svg/42px-Gnome_globe_current_event.svg.png"  style="float:left;margin:10px;"/>この項目は現在進行中の事象を扱っておりますが、GRDはニュース速報ではありません。性急な編集をせず事実を確認し、正確な記述を心がけてください。なお、この内容は不特定多数のボランティアにより自由に編集されていることを踏まえ、自身の安全利害に関わる情報は自己責任でご判断ください。</div>
+
 モンドセレクション最高金賞受賞=篠原ともえは最初からかわいかった=フバい != Powers of Ten=TextMate=プライム・ザ・ビアー=ジョン前田=UREI=Blendtecのミキサー= JusticeのPV=コントレックス=単体女優のアダルトビデオ=ウィルキンソン=ベルギービール=ディチェコのスパゲッティーニ=未踏ソフトウェア= AOR=おもてなし=百万ベンチャー=チェルフィッチュ=ユニクロの会社コラボTシャツ=FREITAG=talby=GRD=ダイソンの掃除機=柳宗理のフライパン＝佐藤可士和の年賀状＝BOSEのwaveradio= TENORI-ON=iPodにカバーつけない=ケメックスのコーヒーメーカー=ビルケンシュトックのサンダル=トーキョーバイク=porterのバッグ =ベネトンのコンドーム=RHODIAのメモ帳=スーザンベルのエコバッグ=mina perhonen=ミニシアターでしか映画見ない=±0の加湿器
 
