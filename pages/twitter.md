@@ -1,23 +1,23 @@
-- ピラフ
-- コーンスープ + パン
-- はらへった
-- 頭痛
-- たこうまい
+- ピラフ ![fav](http://assets0.twitter.com/images/icon_star_empty.gif)
+- コーンスープ + パン ![fav](http://assets0.twitter.com/images/icon_star_empty.gif)
+- はらへった ![fav](http://assets0.twitter.com/images/icon_star_empty.gif)
+- 頭痛 ![fav](http://assets0.twitter.com/images/icon_star_empty.gif)
+- たこうまい ![fav](http://assets0.twitter.com/images/icon_star_empty.gif)
 - 牛すじを煮てるヴァーナ ![fav](http://assets0.twitter.com/images/icon_star_full.gif)
-- ねてた
-- 氷結
-- 買い物
-- 風呂
-- 寝
-- listening ジャイアント・クラブ - ウリチパン群
-- 泡盛 + お湯
-- カエルすげえ
+- ねてた ![fav](http://assets0.twitter.com/images/icon_star_empty.gif)
+- 氷結 ![fav](http://assets0.twitter.com/images/icon_star_empty.gif)
+- 買い物 ![fav](http://assets0.twitter.com/images/icon_star_empty.gif)
+- 風呂 ![fav](http://assets0.twitter.com/images/icon_star_empty.gif)
+- 寝 ![fav](http://assets0.twitter.com/images/icon_star_empty.gif)
+- listening ジャイアント・クラブ - ウリチパン群 ![fav](http://assets0.twitter.com/images/icon_star_empty.gif)
+- 泡盛 + お湯 ![fav](http://assets0.twitter.com/images/icon_star_empty.gif)
+- カエルすげえ ![fav](http://assets0.twitter.com/images/icon_star_empty.gif)
 - listening カエル ![fav](http://assets0.twitter.com/images/icon_star_full.gif)
-- ビール
-- 牛丼
-- メンチカツ
-- 食材買いにいく
-- 寒い
+- ビール ![fav](http://assets0.twitter.com/images/icon_star_empty.gif)
+- 牛丼 ![fav](http://assets0.twitter.com/images/icon_star_empty.gif)
+- メンチカツ ![fav](http://assets0.twitter.com/images/icon_star_empty.gif)
+- 食材買いにいく ![fav](http://assets0.twitter.com/images/icon_star_empty.gif)
+- 寒い ![fav](http://assets0.twitter.com/images/icon_star_empty.gif)
 - ドーナツ ![fav](http://assets0.twitter.com/images/icon_star_full.gif)
 - あんドーナツ ![fav](http://assets0.twitter.com/images/icon_star_full.gif)
 
