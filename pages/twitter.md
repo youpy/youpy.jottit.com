@@ -3,7 +3,7 @@
 - はらへった
 - 頭痛
 - たこうまい
-- 牛すじを煮てるヴァーナ
+- 牛すじを煮てるヴァーナ ![fav](http://assets0.twitter.com/images/icon_star_full.gif)
 - ねてた
 - 氷結
 - 買い物
@@ -12,12 +12,12 @@
 - listening ジャイアント・クラブ - ウリチパン群
 - 泡盛 + お湯
 - カエルすげえ
-- listening カエル
+- listening カエル ![fav](http://assets0.twitter.com/images/icon_star_full.gif)
 - ビール
 - 牛丼
 - メンチカツ
 - 食材買いにいく
 - 寒い
-- ドーナツ
-- あんドーナツ
+- ドーナツ ![fav](http://assets0.twitter.com/images/icon_star_full.gif)
+- あんドーナツ ![fav](http://assets0.twitter.com/images/icon_star_full.gif)
 
