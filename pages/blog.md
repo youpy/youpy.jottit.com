@@ -25,7 +25,7 @@ http://blog.livedoor.jp/emsdpr/?mail
 - 素敵なブログですね！
 ### 1 trackback
 
-さびしいよおぉ・・・ (from Ｍ女　沙智子 奴隷日記)
+さびしいよおぉ・・・ (from Ｍ女　沙智子 奴隷日記) ![star](http://s.hatena.ne.jp/images/star.gif)![star](http://s.hatena.ne.jp/images/star.gif)![star](http://s.hatena.ne.jp/images/star.gif)![star](http://s.hatena.ne.jp/images/star.gif)![star](http://s.hatena.ne.jp/images/star.gif)![star](http://s.hatena.ne.jp/images/star.gif)![star](http://s.hatena.ne.jp/images/star.gif)![star](http://s.hatena.ne.jp/images/star.gif)![star](http://s.hatena.ne.jp/images/star.gif)![star](http://s.hatena.ne.jp/images/star.gif)![star](http://s.hatena.ne.jp/images/star.gif)![star](http://s.hatena.ne.jp/images/star.gif)![star](http://s.hatena.ne.jp/images/star.gif)![star](http://s.hatena.ne.jp/images/star.gif)![star](http://s.hatena.ne.jp/images/star.gif)![star](http://s.hatena.ne.jp/images/star.gif)![star](http://s.hatena.ne.jp/images/star.gif)![star](http://s.hatena.ne.jp/images/star.gif)![star](http://s.hatena.ne.jp/images/star.gif)![star](http://s.hatena.ne.jp/images/star.gif)
 
 - やっぱさびしい・・・ 誰かに会いたい・・・ メールちょうだい。 沙智子　Ｍ女　東......more 
 
