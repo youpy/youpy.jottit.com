@@ -5,7 +5,7 @@
 - たこうまい ![fav](http://assets0.twitter.com/images/icon_star_empty.gif)
 - 牛すじを煮てるヴァーナ ![fav](http://assets0.twitter.com/images/icon_star_full.gif)
 - ねてた ![fav](http://assets0.twitter.com/images/icon_star_empty.gif)
-- 氷結 ![fav](http://assets0.twitter.com/images/icon_star_empty.gif)
+- ![protect](http://assets1.twitter.com/images/icon_red_lock.gif)氷結 ![fav](http://assets0.twitter.com/images/icon_star_empty.gif)
 - 買い物 ![fav](http://assets0.twitter.com/images/icon_star_empty.gif)
 - 風呂 ![fav](http://assets0.twitter.com/images/icon_star_empty.gif)
 - 寝 ![fav](http://assets0.twitter.com/images/icon_star_empty.gif)
