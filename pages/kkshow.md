@@ -3,5 +3,7 @@
 
 <img src="http://media.tumblr.com/G6je7Uvklainy096JpQWjtU8_500.jpg" /
 >
+<img src="http://abcdane.net/blog/archives/0801/paris-shaman_03011.JPG" /
+>
 
 
