@@ -1,5 +1,10 @@
 <blockquote>
 社長の娘にクロカワくんの髪広がりすぎだからタオル巻いて！と言われてイラッとしたので投げやりにタオル頭部に乗せたらなんかそれでもオッケー的な無視が催された
+
+
+<img src="http://media.tumblr.com/G6je7Uvklbkkqskfr1WGEXKM_500.jpg"/>
+
+
 </blockquote>
 
 
