@@ -1,3 +1,5 @@
+* franc franc=フランク フランク
+* FAUCHON=ファウチョン
 * トンズラ=トリコフィトン・トンズランス
 * アルフ=宇宙生物<img src="http://www3.nhk.or.jp/kaigai/images_promote/prm_alf.jpg" />
 * ース=MySpace
