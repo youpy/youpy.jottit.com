@@ -10,7 +10,7 @@
 * franc franc=フランク フランク
 * FAUCHON=ファウチョン
 * トンズラ=トリコフィトン・トンズランス
-* アルフ=宇宙生物(<img src="http://www3.nhk.or.jp/kaigai/images_promote/prm_alf.jpg" style="height:1em"/>)
+* アルフ=宇宙生物(<img src="http://www3.nhk.or.jp/kaigai/images_promote/prm_alf.jpg" height="25px" style="height:1em"/>)
 * ース=MySpace
 * 乳首=桜色の突起
 * カツ丼=コトが済んだ
