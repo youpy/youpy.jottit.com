@@ -7,8 +7,8 @@
 * 防弾=ヒーター
 * 亡霊=クーラー
 * トム=便利なやつ
-* franc franc=フランク フランク
-* FAUCHON=ファウチョン
+* フランク フランク=franc franc
+* ファウチョン=FAUCHON
 * トンズラ=トリコフィトン・トンズランス
 * アルフ=宇宙生物(<img src="http://www3.nhk.or.jp/kaigai/images_promote/prm_alf.jpg" height="25px" style="height:1em"/>)
 * ース=MySpace
