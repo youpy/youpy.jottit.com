@@ -1,4 +1,6 @@
-* オリンピック=<img src="http://www.olympic-corp.co.jp/images/logo.gif">
+* TMD=なんかすごく悪い言葉
+* フバイ=corrupt、腐敗
+* オリンピック=<img src="http://www.olympic-corp.co.jp/images/logo.gif" style="height:1em">
 * コボちゃん=お茶をこぼすこと。
 * 奥野=道端に落ちている木の根っこにそっくりだが、雨ざらしになっている下手糞な石像とも似ている。
 * ポー=やる気がでたときの音
@@ -8,7 +10,7 @@
 * franc franc=フランク フランク
 * FAUCHON=ファウチョン
 * トンズラ=トリコフィトン・トンズランス
-* アルフ=宇宙生物<img src="http://www3.nhk.or.jp/kaigai/images_promote/prm_alf.jpg" />
+* アルフ=宇宙生物(<img src="http://www3.nhk.or.jp/kaigai/images_promote/prm_alf.jpg" style="height:1em"/>)
 * ース=MySpace
 * 乳首=桜色の突起
 * カツ丼=コトが済んだ
@@ -40,11 +42,10 @@
 * 夢は時間を裏切らない=時間も夢を決して裏切らない
 * 雌リス=メーリングリスト
 * ヘルメットだけに=被ったときに使う
-* フバい=すごくいい
 * キャーコワい～!=すごくいい
 * 佐川のジジイ=忍者
 * シャブ=渋谷
 * ニャーン=
 * ラモス=冷やせ
-* たこ焼き=10万ダウンロード(例:1日にたこ焼き80個でギネス)
+* たこ焼き=10万ダウンロード(1日にたこ焼き80個でギネス)
 
