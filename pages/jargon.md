@@ -1,6 +1,7 @@
+* タモさん=<img src="http://image.space.rakuten.co.jp/lg01/30/0000499530/27/img0b603ed6zik1zj.jpeg" height="25px"/>
 * TMD=なんかすごく悪い言葉
 * フバイ=corrupt、腐敗
-* オリンピック=<img src="http://www.olympic-corp.co.jp/images/logo.gif" style="height:1em">
+* オリンピック=<img src="http://www.olympic-corp.co.jp/images/logo.gif" height="20px">
 * コボちゃん=お茶をこぼすこと。
 * 奥野=道端に落ちている木の根っこにそっくりだが、雨ざらしになっている下手糞な石像とも似ている。
 * ポー=やる気がでたときの音
@@ -10,7 +11,7 @@
 * フランク フランク=franc franc
 * ファウチョン=FAUCHON
 * トンズラ=トリコフィトン・トンズランス
-* アルフ=宇宙生物(<img src="http://www3.nhk.or.jp/kaigai/images_promote/prm_alf.jpg" height="25px" style="height:1em"/>)
+* アルフ=宇宙生物(<img src="http://www3.nhk.or.jp/kaigai/images_promote/prm_alf.jpg" height="25px"/>)
 * ース=MySpace
 * 乳首=桜色の突起
 * カツ丼=コトが済んだ
