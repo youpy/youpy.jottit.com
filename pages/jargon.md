@@ -1,3 +1,4 @@
+* タモさん=<img src="http://fresco358.ya.shopserve.jp/pic-labo/t-tronto-up2.jpg" height="25px"/>
 * タモさん=<img src="http://image.space.rakuten.co.jp/lg01/30/0000499530/27/img0b603ed6zik1zj.jpeg" height="25px"/>
 * TMD=なんかすごく悪い言葉
 * フバイ=corrupt、腐敗
