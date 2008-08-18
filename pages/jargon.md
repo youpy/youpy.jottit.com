@@ -1,3 +1,8 @@
+* PIR=室内に親
+* CD9=危険！親が来た！
+* P911=親緊急事態
+* PRON=ポルノ
+* IDK=知りません
 * ナベアツ=<img src="http://www.ne.jp/asahi/fukui/knyco/nabesp/pres/seb-nklps.jpg" height="25px"/>
 * しょこたん=<img src="http://shoko.from.tv/archives/images/20060504blog-001.jpg" height="25px"/>
 * タモさん=<img src="http://fresco358.ya.shopserve.jp/pic-labo/t-tronto-up2.jpg" height="25px"/>
