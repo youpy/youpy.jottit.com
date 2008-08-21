@@ -1,3 +1,4 @@
+<imag src="http://www.picamatic.com/show/2008/08/21/06/868715_507x377.jpg"/>
 <img src="http://photofile.ru/photo/fishki_net/3601621/79319219.jpg" />
 <img src="http://media.tumblr.com/3HWhJ1T6fc2iv5isF6hkpUQ4_500.jpg"/>
 
