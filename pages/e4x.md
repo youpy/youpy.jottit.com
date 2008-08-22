@@ -3,6 +3,7 @@
 
 * [E4X Adds Direct XML Support to JavaScript](http://www.devx.com/webdev/Article/33393/1954?pf=true)
 * [developerWorks - E4X: JavaScript on steroids](http://www.ibm.com/developerworks/xml/library/x-javascript4x.html)
+* [JavaScript を強化した E4X](http://www.ibm.com/developerworks/jp/xml/library/x-javascript4x.html)
 * [E4X tutorial - MDC](http://developer.mozilla.org/en/docs/E4X_tutorial)
 * [Mozilla E4X](http://developer.mozilla.org/presentations/xtech2005/e4x/)
 * [E4X :: Net More World](http://www.e4x.com/)
