@@ -1,3 +1,3 @@
-0. access to the deleted page name (i.e. http://youpy.jottit.com/how_to_revert)
+0. open the deleted page (i.e. http://youpy.jottit.com/how\_to\_revert)
 1. click "undo the delete"
 
