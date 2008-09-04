@@ -1,3 +1,5 @@
-0. open the deleted page (i.e. http://youpy.jottit.com/how\_to\_revert)
-1. click "undo the delete"
+0. create a new page with the deleted page name
+1. click history
+2. click target revision
+3. click "revert to this"
 
