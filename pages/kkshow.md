@@ -1,3 +1,4 @@
+<img src="http://www.picamatic.com/show/2008/09/07/10/25/966813_500x550.jpg">
 <img src="http://images.webpark.ru/uploads52/pod11/04_podborka_23.jpg" />
 <img src="http://photofile.ru/photo/fishki_net/3611840/79760147.jpg"/>
 <img src="http://www.picamatic.com/show/2008/08/24/07/887490_500x426.jpg"/>
