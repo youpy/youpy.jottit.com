@@ -1,3 +1,5 @@
+<img src="http://www.iza.ne.jp/images/news/20080917/114244_c450.jpg" />
+
 * ダッル
 * みみいたい
 * シビレ
