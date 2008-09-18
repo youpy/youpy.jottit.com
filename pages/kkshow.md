@@ -1,3 +1,4 @@
+<img src="http://images.webpark.ru/uploads52/080917/ice_8.jpg"/>
 <img src="http://images.webpark.ru/uploads52/080908/back_24.jpg"/>
 <img src="http://www.picamatic.com/show/2008/09/07/10/25/966813_500x550.jpg">
 <img src="http://images.webpark.ru/uploads52/pod11/04_podborka_23.jpg" />
