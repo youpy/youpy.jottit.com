@@ -1,5 +1,6 @@
 <img src="http://www.iza.ne.jp/images/news/20080917/114244_c450.jpg" />
 
+* 味噌たっぷり
 * 包丁で刺したとこがいたい
 * 腰が痛い
 * きもい
