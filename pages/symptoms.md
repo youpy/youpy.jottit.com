@@ -1,6 +1,6 @@
 <img src="http://www.iza.ne.jp/images/news/20080917/114244_c450.jpg" />
 
-
+* グツグツする
 * 親指だけ発達
 * 肉が消化されない
 * しゃっくり
