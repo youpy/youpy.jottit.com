@@ -1,3 +1,4 @@
+<img src="http://images2.webpark.ru/uploads52/081001/wtf_02.jpg"/>
 <img src="http://de.fishki.net/picsw/092008/24/prislannoe/maxim.jpg"/>
 <img src="http://30.media.vimeo.com/d1/5/79/72/7972357/7972357_75.jpg"/><img src="http://30.media.vimeo.com/d1/5/79/72/7972357/7972357_75.jpg"/><img src="http://30.media.vimeo.com/d1/5/79/72/7972357/7972357_75.jpg"/>
 <img src="http://images.webpark.ru/uploads52/080917/ice_8.jpg"/>
