@@ -1,5 +1,8 @@
 <img src="http://www.iza.ne.jp/images/news/20080917/114244_c450.jpg" />
 
+
+* <img src="http://tinyurl.com/4d5xel" />
+* <img src="http://tinyurl.com/3r95ol" />
 * <img src="http://media.tumblr.com/Y2QXwMQocejl3f1hh53WOzvOo1_500.gif" />
 * 脳がいたい
 * 突然の胃痛
