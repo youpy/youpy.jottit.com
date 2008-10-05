@@ -1,3 +1,4 @@
+<img src="http://farm4.static.flickr.com/3044/2909387714_a06f15a0a4_o.jpg"/>
 <img src="http://picoolio.co.uk/photos/large/1224-4f6nm.jpg"/>
 <img src="http://images2.webpark.ru/uploads52/pod12/01_podborka_28.jpg" />
 <img src="http://images2.webpark.ru/uploads52/081001/wtf_02.jpg"/>
