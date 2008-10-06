@@ -10,6 +10,9 @@
 * <img src="http://media.tumblr.com/Y2QXwMQocejldv2sBl2nurTfo1_500.gif" />
 * <img src="http://media.tumblr.com/Y2QXwMQocejl5o3nzQSmx0FVo1_500.gif" />
 * <img src="http://media.tumblr.com/Y2QXwMQocejl3f1hh53WOzvOo1_500.gif" />
+* はらへって泣いてる
+* 手が荒れる
+* すい臓
 * 脳がいたい
 * 突然の胃痛
 * あたまがいたい
