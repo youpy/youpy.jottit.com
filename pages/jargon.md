@@ -1,3 +1,4 @@
+* 大麻ップ=時間切れ
 * おかあさん=先生
 * 人肉捜索=人力検索
 * NAIJ=Not Available in Japan
