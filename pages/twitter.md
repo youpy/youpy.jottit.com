@@ -25,4 +25,5 @@
 - 寒い ![fav](http://assets0.twitter.com/images/icon_star_empty.gif)
 - ドーナツ ![fav](http://assets0.twitter.com/images/icon_star_full.gif)
 - あんドーナツ ![fav](http://assets0.twitter.com/images/icon_star_full.gif)
+- 今日は祝日だからみんな夜更かしだな ![fav](http://assets0.twitter.com/images/icon_star_empty.gif)
 
