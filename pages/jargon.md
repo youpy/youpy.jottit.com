@@ -1,3 +1,4 @@
+* わかめ=[wakame](http://buffr.org/tmp/wakame/)
 * ホー=(効果音)
 * レイダー・リラクゼーション=ヨガ
 * SNS=SEX
