@@ -1,3 +1,4 @@
+<img src="http://photofile.ru/photo/fishki_net/3641011/80927404.jpg">
 <img src="http://photofile.ru/photo/fishki_net/3641011/80927364.jpg"/>
 <img src="http://images2.webpark.ru/uploads52/081009/hairdo_11.jpg" />
 <img src="http://media.tumblr.com/3HWhJ1T6fertmbf0f8TzqyUTo1_500.jpg"/>
