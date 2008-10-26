@@ -1,4 +1,3 @@
-<img src="http://farm4.static.flickr.com/3062/2966295554_7083fe95e3_o.jpg" />
 <img src="http://www.cs.wayne.edu/~kjz/image/ind-pri.gif">
 <img src="http://images2.webpark.ru/uploads52/081017/qst_02.jpg">
 <img src="http://photofile.ru/photo/fishki_net/3641011/80927404.jpg">
@@ -31,7 +30,6 @@
 
 
 <img src="http://media.tumblr.com/G6je7Uvklbkkqskfr1WGEXKM_500.jpg"/>
-<img src="http://farm3.static.flickr.com/2071/2436820368_b629b1def1_b.jpg" />
 <img src="http://i36.tinypic.com/1zlzyba.jpg"/>
 <img src="http://media.tumblr.com/3HWhJ1T6fbsi6ymwBIQofwr6_500.jpg"/>
 <img src="http://images.webpark.ru/uploads52/pod9/21_podborka_48.jpg">
