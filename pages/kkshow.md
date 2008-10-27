@@ -1,3 +1,4 @@
+<img src="http://gyazo.com/e56f815f5a5c100ac73cd2cefc437ce8.png" />
 <img src="http://www.cs.wayne.edu/~kjz/image/ind-pri.gif">
 <img src="http://images2.webpark.ru/uploads52/081017/qst_02.jpg">
 <img src="http://photofile.ru/photo/fishki_net/3641011/80927404.jpg">
