@@ -1,6 +1,8 @@
-![y](http://www.mariowiki.com/images/5/5b/BeeMario.jpg)
+![y](http://people.mozilla.com/~faaborg/files/20081021-visualHierarchyAndCustomization/squintTest.png)
 
 <!--
+http://www.mariowiki.com/images/5/5b/BeeMario.jpg
+
 http://www.chunichi.co.jp/chuspo/image/menu/doala50x50banner.gif
 
 http://www.fotoknudsen.no/archive48/020520050154y7xgAxCLU7ePSGtweQ/medium/2002200723461cjRuZLYpmaW1TvyTJ.JPG?91
