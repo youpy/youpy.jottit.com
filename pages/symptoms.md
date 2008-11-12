@@ -1,6 +1,17 @@
+* 金痛
 * <img src="http://www.naoru.com/side-n15.gif" />
 * <img src="http://www.naoru.com/n15.gif" />
-* <img src="http://www.iza.ne.jp/images/news/20080917/114244_c450.jpg" /><img src="http://media.tumblr.com/Y2QXwMQocejldillYdAwzXDzo1_500.jpg" /><img src="http://media.tumblr.com/Y2QXwMQocejldwrncq2UpCj7o1_500.gif" /><img src="http://media.tumblr.com/Y2QXwMQocejlenz7W4pZpABUo1_500.gif" /><img src="http://media.tumblr.com/Y2QXwMQocejlexcrOhkiZ2qno1_500.gif" /><img src="http://media.tumblr.com/Y2QXwMQocejlfmme32RLvxJUo1_500.gif" /><img src="http://media.tumblr.com/Y2QXwMQocejlfokeBH1Rwet0o1_500.gif" /><img src="http://media.tumblr.com/Y2QXwMQocejlht98yb0YjuyVo1_500.gif" /><img src="http://media.tumblr.com/Y2QXwMQocejl8lbzTfkbneKFo1_500.jpg" /><img src="http://media.tumblr.com/Y2QXwMQocejldv2sBl2nurTfo1_500.gif" /><img src="http://media.tumblr.com/Y2QXwMQocejl5o3nzQSmx0FVo1_500.gif" /><img src="http://media.tumblr.com/Y2QXwMQocejl3f1hh53WOzvOo1_500.gif" />
+* <img src="http://www.iza.ne.jp/images/news/20080917/114244_c450.jpg" /><img src="http://media.tumblr.com/Y2QXwMQocejldillYdAwzXDzo1_500.jpg" />
+* <img src="http://media.tumblr.com/Y2QXwMQocejldwrncq2UpCj7o1_500.gif" />
+* <img src="http://media.tumblr.com/Y2QXwMQocejlenz7W4pZpABUo1_500.gif" />
+* <img src="http://media.tumblr.com/Y2QXwMQocejlexcrOhkiZ2qno1_500.gif" />
+* <img src="http://media.tumblr.com/Y2QXwMQocejlfmme32RLvxJUo1_500.gif" />
+* <img src="http://media.tumblr.com/Y2QXwMQocejlfokeBH1Rwet0o1_500.gif" />
+* <img src="http://media.tumblr.com/Y2QXwMQocejlht98yb0YjuyVo1_500.gif" />
+* <img src="http://media.tumblr.com/Y2QXwMQocejl8lbzTfkbneKFo1_500.jpg" />
+* <img src="http://media.tumblr.com/Y2QXwMQocejldv2sBl2nurTfo1_500.gif" />
+* <img src="http://media.tumblr.com/Y2QXwMQocejl5o3nzQSmx0FVo1_500.gif" />
+* <img src="http://media.tumblr.com/Y2QXwMQocejl3f1hh53WOzvOo1_500.gif" />
 * はんだごて当てたとこが痛い
 * 耳から血がでた
 * でっかいデヴィ夫人見える
