@@ -12,6 +12,12 @@
 * <img src="http://media.tumblr.com/Y2QXwMQocejldv2sBl2nurTfo1_500.gif" />
 * <img src="http://media.tumblr.com/Y2QXwMQocejl5o3nzQSmx0FVo1_500.gif" />
 * <img src="http://media.tumblr.com/Y2QXwMQocejl3f1hh53WOzvOo1_500.gif" />
+* おろし金で擦ったとこ痛い
+* 「エモい」って発言したくなる
+* 溶剤
+* 廃材
+* AutoPagerizeがないと生きていけない
+* 耳鼻科２時間待ち
 * 医者いく
 * はんだごて当てたとこが痛い
 * 耳から血がでた
