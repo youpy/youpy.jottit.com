@@ -12,6 +12,7 @@
 * <img src="http://media.tumblr.com/Y2QXwMQocejldv2sBl2nurTfo1_500.gif" />
 * <img src="http://media.tumblr.com/Y2QXwMQocejl5o3nzQSmx0FVo1_500.gif" />
 * <img src="http://media.tumblr.com/Y2QXwMQocejl3f1hh53WOzvOo1_500.gif" />
+* パブリックイメージに疲れた
 * おろし金で擦ったとこ痛い
 * 「エモい」って発言したくなる
 * 溶剤
