@@ -92,3 +92,5 @@
 * 耳鳴りする
 * さむい
 
+* <img src="http://www.kintore.info/i/kinniku_m.gif">
+
