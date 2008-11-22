@@ -1,3 +1,4 @@
+- ゆれてねーだろあほか ![del](http://http://assets2.twitter.com/images/icon_trash.gif)
 - ![protect](http://assets1.twitter.com/images/icon_red_lock.gif) ジャムおじさんはどう考えても呪術師
 - ![protect](http://assets1.twitter.com/images/icon_red_lock.gif) listening Ekkehard Ehlers - Plays
 - ![protect](http://assets1.twitter.com/images/icon_red_lock.gif) baby いいっす
