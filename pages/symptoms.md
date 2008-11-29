@@ -4,7 +4,8 @@
 * <img src="http://members2.jcom.home.ne.jp/sei-amc/h-sannyousihaiiki.gif" />
 * <img src="http://www.naoru.com/side-n15.gif" />
 * <img src="http://www.naoru.com/n15.gif" />
-* <img src="http://www.iza.ne.jp/images/news/20080917/114244_c450.jpg" /><img src="http://media.tumblr.com/Y2QXwMQocejldillYdAwzXDzo1_500.jpg" />
+* <img src="http://www.iza.ne.jp/images/news/20080917/114244_c450.jpg" />
+* <img src="http://media.tumblr.com/Y2QXwMQocejldillYdAwzXDzo1_500.jpg" />
 * <img src="http://media.tumblr.com/Y2QXwMQocejldwrncq2UpCj7o1_500.gif" />
 * <img src="http://media.tumblr.com/Y2QXwMQocejlenz7W4pZpABUo1_500.gif" />
 * <img src="http://media.tumblr.com/Y2QXwMQocejlexcrOhkiZ2qno1_500.gif" />
