@@ -1,3 +1,4 @@
+* 仮病
 * 金痛
 * <img src="http://members2.jcom.home.ne.jp/sei-amc/h-keimyakuhenn.hai-hi.gif" />
 * <img src="http://members2.jcom.home.ne.jp/sei-amc/h-sannyousihaiiki.gif" />
