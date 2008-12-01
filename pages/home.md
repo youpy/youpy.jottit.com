@@ -1,4 +1,4 @@
-![y](http://data.tumblr.com/dD3KtlSZxghqidbchrfmuL12o1_500.jpg)
+![y](http://image.blog.livedoor.jp/turiotoko/imgs/5/c/5cd7f958.JPG)
 
 <!--
 http://media.tumblr.com/6hT7IIFQnfma1tybSILBQ91mo1_500.jpg
