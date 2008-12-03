@@ -1,4 +1,5 @@
-![y](http://image.blog.livedoor.jp/turiotoko/imgs/5/c/5cd7f958.JPG)
+<img src="http://image.blog.livedoor.jp/turiotoko/imgs/5/c/5cd7f958.JPG"><br>
+<img src="http://storage.kanshin.com/free/img_24/242353/434431710.jpg">
 
 <!--
 http://media.tumblr.com/6hT7IIFQnfma1tybSILBQ91mo1_500.jpg
