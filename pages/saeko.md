@@ -3,6 +3,7 @@
 * お金を払ったことを忘れてしまう
 * システムインテグレーターA社のスーパーSE。モデル事務所のスカウトを断って、IT業界に進んだツワモノ
 
+<img src="http://media.tumblr.com/dD3KtlSZxh86mwalsev05FgYo1_500.jpg"/>
 <img src="http://www.atmarkit.co.jp/ad/canon/200805captureperfect/illust03a.jpg" />
 <img src="http://www.atmarkit.co.jp/ad/canon/200805captureperfect/icon1.jpg" />
 <img src="http://www.sendai-arts.jp/admin/imgfile/20060407130726shohinPhoto_04.jpg"/>
