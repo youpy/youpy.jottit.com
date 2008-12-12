@@ -1,3 +1,4 @@
+* ストミュー=ストリートミュージック
 * ほっ=あったか～い
 * ラジボア=<img src="http://media.tumblr.com/SI1WtzFPwhc77ekzEzOWBJyUo1_400.jpg" height="30px">
 * ぺろぺろ=(流行ってる)
