@@ -1,7 +1,8 @@
-<img src="http://image.blog.livedoor.jp/turiotoko/imgs/5/c/5cd7f958.JPG"><br>
-<img src="http://storage.kanshin.com/free/img_24/242353/434431710.jpg">
+<img src="http://www.rainbowmonkey.de/imgs/print/cartoon_mickey.jpg"/>
 
 <!--
+http://image.blog.livedoor.jp/turiotoko/imgs/5/c/5cd7f958.JPG
+
 http://media.tumblr.com/6hT7IIFQnfma1tybSILBQ91mo1_500.jpg
 
 http://people.mozilla.com/~faaborg/files/20081021-visualHierarchyAndCustomization/squintTest.png
