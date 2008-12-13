@@ -7,6 +7,7 @@
 <img src="http://media.tumblr.com/dD3KtlSZxh86mwalsev05FgYo1_500.jpg"/>
 <img src="http://www.atmarkit.co.jp/ad/canon/200805captureperfect/illust03a.jpg" />
 <img src="http://www.atmarkit.co.jp/ad/canon/200805captureperfect/icon1.jpg" />
+<img src="http://image.itmedia.co.jp/images0509/fyi/news_04_1227574875.gif" />
 <img src="http://www.sendai-arts.jp/admin/imgfile/20060407130726shohinPhoto_04.jpg"/>
 <img src="http://www.picamatic.com/show/2008/10/20/10/43/1217426_697x467.jpg"/>
 <img src="http://farm4.static.flickr.com/3039/2825009405_b2d18c01fa.jpg"/>
