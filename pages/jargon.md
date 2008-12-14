@@ -1,3 +1,4 @@
+* BNKR=忘年会でリバース
 * 柔ヒー=柔道後のコーヒー
 * 剣柔=竹刀を持って行う柔道
 * YQL=Yahoo! Query Language
