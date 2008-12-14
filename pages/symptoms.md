@@ -1,3 +1,4 @@
+* <img src="http://de.fishki.net/picsw/122008/12/sleep/011.jpg" />
 * 仮病
 * 金痛
 * <img src="http://members2.jcom.home.ne.jp/sei-amc/h-keimyakuhenn.hai-hi.gif" />
