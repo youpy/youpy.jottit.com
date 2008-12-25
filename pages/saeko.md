@@ -6,6 +6,7 @@
 * お金を払ったことを忘れてしまう
 * システムインテグレーターA社のスーパーSE。モデル事務所のスカウトを断って、IT業界に進んだツワモノ
 
+<a href="http://i1.to/image.php/aidan/005033_b0df0/0000131_e78cf.jpg"><img src="http://i1.to/data/aidan/005033_b0df0/TN_0000131_e78cf.jpg"></a>
 <img src="http://image.blog.livedoor.jp/mst1005/imgs/c/a/caa1c14c.jpg" width="300"/>
 <img src="http://i405.photobucket.com/albums/pp139/frenchmohovintage/JULIE/_MG_3917.jpg">
 <img src="http://media.tumblr.com/dD3KtlSZxh86mwalsev05FgYo1_500.jpg"/>
