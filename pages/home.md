@@ -1,6 +1,8 @@
-<img src="http://media.tumblr.com/cdvDAoiSThms1t8t2qYfnsybo1_500.jpg"/>
+<img src="http://upload.wikimedia.org/wikipedia/en/7/7e/Floppy_disk_300_dpi.jpg"/>
 
 <!--
+http://media.tumblr.com/cdvDAoiSThms1t8t2qYfnsybo1_500.jpg
+
 http://www.rainbowmonkey.de/imgs/print/cartoon_mickey.jpg
 
 http://image.blog.livedoor.jp/turiotoko/imgs/5/c/5cd7f958.JPG
