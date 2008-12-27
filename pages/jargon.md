@@ -1,3 +1,4 @@
+* スキャンティ=パンツ
 * 上場=セックス=蒸発
 * koyachi blue=#00b4f5
 * ウィキ=jottit.com
