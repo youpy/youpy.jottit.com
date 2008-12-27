@@ -1,6 +1,8 @@
-<img src="http://upload.wikimedia.org/wikipedia/en/7/7e/Floppy_disk_300_dpi.jpg"/>
+<img src="http://de.fishki.net/picsw/122008/26/men/033.jpg"/>
 
 <!--
+http://upload.wikimedia.org/wikipedia/en/7/7e/Floppy_disk_300_dpi.jpg
+
 http://media.tumblr.com/cdvDAoiSThms1t8t2qYfnsybo1_500.jpg
 
 http://www.rainbowmonkey.de/imgs/print/cartoon_mickey.jpg
