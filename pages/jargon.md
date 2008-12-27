@@ -1,3 +1,4 @@
+* koyachi blue=#00b4f5
 * ウィキ=jottit.com
 * ウィキペ=(調査中)
 * 刑務所=オフライン
