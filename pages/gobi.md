@@ -1,3 +1,4 @@
+* lang:ja
 * ｗｗｗｗｗｗ
 * \*Tw*
 * 6 users
