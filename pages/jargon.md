@@ -1,3 +1,6 @@
+* (RS)=RapidShare
+* (MF)=MediaFire
+* (ZS)=zShare
 * わいせつな行為=Bまで（同意あり）
 * みだらな行為=性交（同意あり）
 * ファーファ=<img src="http://scottthong.files.wordpress.com/2007/05/farfour.jpg" height="30px">。Farfour。
