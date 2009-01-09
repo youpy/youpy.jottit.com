@@ -1,3 +1,4 @@
+* IDM=インテリジェント・ダンス・ミュージック
 * (RS)=RapidShare
 * (MF)=MediaFire
 * (ZS)=zShare
