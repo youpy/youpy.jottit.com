@@ -1,3 +1,5 @@
+* わいせつな行為=Bまで（同意あり）
+* みだらな行為=性交（同意あり）
 * ファーファ=<img src="http://scottthong.files.wordpress.com/2007/05/farfour.jpg" height="30px">。Farfour。
 * アシッドエコナ=<img src="http://gyazo.com/b36a6df0240df4369735d0c98e250bc3.png" height="30px"/>
 * カニバリズム=カニ食べ放題
