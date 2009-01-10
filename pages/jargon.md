@@ -1,3 +1,4 @@
+* エネミー=emacs
 * IDM=インテリジェント・ダンス・ミュージック
 * (RS)=RapidShare
 * (MF)=MediaFire
