@@ -1,10 +1,18 @@
 <img src="http://gyazo.com/c9c453577152e05373231f33d966094c.png" />
 
+
 * メガネもうだめ
+
+<img src="http://data.tumblr.com/cXHwYYMtmieukm3hXptqUIaDo1_500.jpg" />
+
 * ちょうかわいい
 * エロい
 * スクリプト
 * メガネのレンズはずれた
+
+<img src="http://data.tumblr.com/GmOtCx6WFijzgqdahppm9CVPo1_500.jpg" />
+
+
 * 今月芸能活動に「未練はない」と断言するも「戻ってくる場所があるなら」30代で女優業を続けたい
 * 資産家の娘
 * Firefoxのバージョンは2.0.0.18
