@@ -1,4 +1,4 @@
-<img src="http://1.bp.blogspot.com/_hlrAC_92oBA/SWjOdf5hdXI/AAAAAAAABiA/2pMu6gEXk4c/s1600/84%2B.jpg"/>
+<img src="http://data.tumblr.com/2dV7wpoYcikjzc3oja8b1IX5o1_500.jpg"/>
 
 <!--
 http://de.fishki.net/picsw/122008/26/men/033.jpg
