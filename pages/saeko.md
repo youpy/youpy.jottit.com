@@ -8,6 +8,9 @@
 * ちょうかわいい
 * エロい
 * スクリプト
+
+<img src="http://haw-lin.com/wp/wp-content/uploads/2008/10/oliver.jpg" />
+
 * メガネのレンズはずれた
 
 <img src="http://data.tumblr.com/GmOtCx6WFijzgqdahppm9CVPo1_500.jpg" />
