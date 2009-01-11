@@ -6,6 +6,9 @@
 <img src="http://data.tumblr.com/cXHwYYMtmieukm3hXptqUIaDo1_500.jpg" />
 
 * ちょうかわいい
+
+<img src="http://data.tumblr.com/dD3KtlSZxilczpcq9No29sMMo1_500.jpg" />
+
 * エロい
 * スクリプト
 
