@@ -3,4 +3,5 @@
 * eigokun
 * onigirikun
 * oqunokun
+* ninjinkun
 
