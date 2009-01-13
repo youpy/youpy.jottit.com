@@ -3,7 +3,7 @@
 
 * メガネもうだめ
 
-<img src="http://data.tumblr.com/cXHwYYMtmieukm3hXptqUIaDo1_500.jpg" />
+<img src="http://data.tumblr.com/cXHwYYMtmieukm3hXptqUIaDo1_500.jpg" /><img src="http://data.tumblr.com/9RtRLtEelini8sf0Ec8kqW2Io1_250.jpg" />
 
 * ちょうかわいい
 
