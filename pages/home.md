@@ -1,4 +1,4 @@
-<img src="http://data.tumblr.com/2dV7wpoYcio1sf55wyMSMNyZo1_500.jpg"/>
+<img src="http://data.tumblr.com/2dV7wpoYcio1sf55wyMSMNyZo1_500.jpg" width="400" /><img src="http://data.tumblr.com/L3x6F9biriocdz5vDsypoMP4o1_500.jpg" width="400"/>
 
 <!--
 http://data.tumblr.com/2dV7wpoYcimadgddtspkqDsUo1_500.jpg
