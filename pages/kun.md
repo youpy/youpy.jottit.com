@@ -1,3 +1,4 @@
+* oshiete-kun
 * shikakun
 * oginokun
 * eigokun
