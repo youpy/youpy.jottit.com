@@ -1,3 +1,4 @@
+* (C)
 * (Extended Version)
 * (R)
 * という夢を見た
