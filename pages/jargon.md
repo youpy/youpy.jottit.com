@@ -8,7 +8,7 @@
 * ペ=Wikipedia
 * チャーハン=リップ
 * デデンデンデデン=(効果音)
-* ペッティング=元気でる
+* ペッティング=元気でる=<img src="http://blogimg.goo.ne.jp/user_image/1d/e6/0d4d8d85d91300c0bfec05a1bb73b5e3.jpg" height="30px">
 * ソードラッレーっ=(効果音)
 * エネミー=emacs
 * IDM=インテリジェント・ダンス・ミュージック
