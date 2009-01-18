@@ -1,3 +1,4 @@
+* (Extended Version)
 * (R)
 * という夢を見た
 * Dan the Perl Monger
