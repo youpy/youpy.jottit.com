@@ -1,3 +1,4 @@
+<img src="http://ru.fishki.net/picsw/012009/21/prislannoe/POP.jpg"/>
 <img src="http://www.saibaba.ws/miracles/jesus_saibaba.jpg"/>
 <img src="http://postnext.com/img_set6/cfuukkoplg-013.jpg"/>
 <img src="http://de.fishki.net/picsw/122008/24/priskannoe/lopski1.jpg"/>
