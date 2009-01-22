@@ -1,3 +1,4 @@
+* eigokun=Enlightenment Infomative Global Ongoing Kind of Underground Nouvelle-Vague
 * チンポータント=チンポインポータント
 * ガンダム=空想ロボット
 * それPla=「それPlaggerでできるよ」の略で、Plaggerを使うと何でもできることを表している。ネット上でよく使われるフレーズ。
