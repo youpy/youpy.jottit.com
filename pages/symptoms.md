@@ -1,3 +1,5 @@
+* <img src="http://www.kusuriya.com/kanpou/mid/kafg.mid" />
+* <img src="http://www.kusuriya.com/kanpou/mid/kaxd.mid" />
 * <img src="http://www.kusuriya.com/kanpou/mid/kacf.mid" />
 * ESCキーとれてポロリいっとる
 * Fan error
