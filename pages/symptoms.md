@@ -1,3 +1,4 @@
+* <img src="http://www.kusuriya.com/kanpou/mid/kacf.mid" />
 * ESCキーとれてポロリいっとる
 * Fan error
 * <img src="http://media.tumblr.com/Mc7wuoHVqic9jgalzlYJNloao1_500.jpg" />
