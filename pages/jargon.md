@@ -1,3 +1,4 @@
+* DR=The Designers Republic
 * テケテケ=The Laughing Light of Plenty / The Rose。やたらmixにはいってる。
 * ほう・れん・そう=報告・連絡・相談
 * eigokun=Enlightenment Infomative Global Ongoing Kind of Underground Nouvelle-Vague
