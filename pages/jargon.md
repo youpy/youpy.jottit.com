@@ -1,3 +1,4 @@
+* ほう・れん・そう=報告・連絡・相談
 * eigokun=Enlightenment Infomative Global Ongoing Kind of Underground Nouvelle-Vague
 * チンポータント=チンポインポータント
 * ガンダム=空想ロボット
