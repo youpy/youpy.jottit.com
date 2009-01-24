@@ -1,3 +1,4 @@
+* Copyright © 2009. All rights reserved.
 * ('-')
 * (1992)
 * ◇メールマガジンの配信停止方法はこちら↓
