@@ -1,3 +1,4 @@
+<img src="http://ru.fishki.net/picsw/012009/23/prislannoe/ray_2006.jpg" />
 <img src="http://www.kiva.org/img/w800/258964.jpg" />
 <img src="http://ru.fishki.net/picsw/012009/21/prislannoe/POP.jpg"/>
 <img src="http://www.saibaba.ws/miracles/jesus_saibaba.jpg"/>
