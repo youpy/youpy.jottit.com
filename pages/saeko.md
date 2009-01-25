@@ -1,4 +1,4 @@
-<img src="http://www.saeko.biz/gallery/img_gallery/live-001.jpg" width=100%>
+<img src="http://www.saeko.biz/gallery/img_gallery/others-002.jpg" width=100%>
 <img src="http://bradysales.org/DOLL-2.jpg" />
 <img src="http://15.media.tumblr.com/vicErPwd7j3q2gl1SldYuSVSo1_500.jpg" width="100%">
 
