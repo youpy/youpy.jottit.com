@@ -3,7 +3,6 @@
 <img src="http://bradysales.org/DOLL-2.jpg" />
 <img src="http://15.media.tumblr.com/vicErPwd7j3q2gl1SldYuSVSo1_500.jpg" width="100%">
 
-<img src="http://gyazo.com/3274b92842aef2026f378c0a7bcad28b.png" />
 
 * 14歳のある日、SAEKOは“運命の声”を聞く。「貴方はこの為に生まれてきた」と。
 * 感性豊かな少女であるとともに、時おり人には見えないもの・聞こえないものを感じるなど、幼少時より霊的な感覚にも鋭いものがあった。
