@@ -44,7 +44,7 @@
 * Firefoxのバージョンは2.0.0.18
 * お金を払ったことを忘れてしまう
 * システムインテグレーターA社のスーパーSE。モデル事務所のスカウトを断って、IT業界に進んだツワモノ<img src="http://bradysales.org/afurby.jpg" height="100px" />
-
+* と言うよりも、ヘヴィメタルに出会う前からヘヴィメタルを知っていたんです。分かってもらえるかわかりませんが、物心ついた頃、つまり２〜３歳とかそれぐらいからですけど、頭の奥の方で音楽がいつも鳴っていたんです。 
 
 <img src="http://media.tumblr.com/vicErPwd7ie6iayfLkf2zFrGo1_500.jpg" />
 <img src="http://ec2.images-amazon.com/images/I/318W63F5FWL._SL500_AA280_.jpg">
