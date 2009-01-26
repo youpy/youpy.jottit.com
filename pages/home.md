@@ -1,5 +1,24 @@
-<img src="http://www.ideaxidea.com/wp-content/uploads/2009/01/spam1.gif" />
+自分のサイトがまるごとコピーされてAdSense貼られまくり、というサイト（スパムブログ）を見つけたら通報するのが良いかもしれません。最近はGoogleの対応も早くなってきているみたいなのでおすすめです（来るメールは全部テンプレだけどｗ）。
 
+自分でもたまに通報するのでｗ、以下メモちっくに手順を書いておきます。まず行くべきは次のページ。
+
+» [サポートに連絡する - AdSense ヘルプ](https://www.google.com/adsense/support/bin/request.py?)
+
+このページから次のように進んでいきます。
+
+
+<img src="http://www.ideaxidea.com/wp-content/uploads/2009/01/spam1.gif" /><br>
+↑ 「ポリシー違反の報告」で「続行」。
+
+<img src="http://www.ideaxidea.com/wp-content/uploads/2009/01/spam2.gif" /><br>
+↑ メールアドレスと違反しているサイトのURLを入れた後にここをチェック。
+
+<img src="http://www.ideaxidea.com/wp-content/uploads/2009/01/spam3.gif" /><br>
+↑ 理由を詳しく。どこそこのサイトからコピーしていますよー、と書きましょう。
+
+これでOKです。Google側で違反という判断が下されたらスパムブログ側に連絡がいくはずです。AdSenseをアカウントごと停止されるのは痛いのでこれでおとなしくなるかと。
+
+通報は面倒っぽい、というイメージをもたれている方も多いですが、数分で完了しますのでおすすめです。まぁ、あまり通報という行為自体をしたくないですけどね・・・。
 
 <!--
 http://12.media.tumblr.com/JMpk9dRVoiqj9uzpY2JtAhDlo1_500.jpg
