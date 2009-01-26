@@ -1,3 +1,4 @@
+* ASS=アドレスシークレットシステム
 * 変ション=変なテンション
 * DR=The Designers Republic
 * テケテケ=The Laughing Light of Plenty / The Rose。やたらmixにはいってる。
