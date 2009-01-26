@@ -1,4 +1,4 @@
-<img src="http://4.bp.blogspot.com/_AObaWBZ4mxw/ST8xoL8qhOI/AAAAAAAACOs/bGvCDlaXCXA/ADeOssorio4.jpg" /> 
+<img src="http://www.fantaterror.com/Directores/ADeOssorio4.jpg" /> 
 <img src="http://ru.fishki.net/picsw/012009/23/prislannoe/ray_2006.jpg" />
 <img src="http://www.kiva.org/img/w800/258964.jpg" />
 <img src="http://ru.fishki.net/picsw/012009/21/prislannoe/POP.jpg"/>
