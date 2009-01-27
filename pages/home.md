@@ -1,5 +1,3 @@
-![header](http://www.ideaxidea.com/wp-content/themes/ma38su-wp.vicuna-648ac115a193eef54f7d2596592d19212c4c2018/style-smartCanvas/images/eyeCatch/header.png)
-
 # スパムブログを通報する方法
 
 自分のサイトがまるごとコピーされてAdSense貼られまくり、というサイト（スパムブログ）を見つけたら通報するのが良いかもしれません。最近はGoogleの対応も早くなってきているみたいなのでおすすめです（来るメールは全部テンプレだけどｗ）。
