@@ -4,4 +4,3 @@
 <img src="http://image.blog.livedoor.jp/mito1_777/imgs/9/f/9ff5c581.JPG" />
 <img src="http://homepage3.nifty.com/com/review/xp/fan.jpg" />
 
-
