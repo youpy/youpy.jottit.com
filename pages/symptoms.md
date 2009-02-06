@@ -109,3 +109,5 @@
 
 * <img src="http://www.kintore.info/i/kinniku_m.gif">
 
+*[AGF/Delay - Symptoms](http://www.amazon.co.jp/exec/obidos/ASIN/B001PA7OPI/harsch-22)
+
