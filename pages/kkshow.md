@@ -1,3 +1,4 @@
+<img src="http://17.media.tumblr.com/ln1YVs4Jhjmtd44dyee6Pb8Jo1_500.jpg" />
 <img src="http://nastynets.com/secretstash/blogstuff/2009/02/talkingstatue3.jpg" />
 <img src="http://www.fantaterror.com/Directores/ADeOssorio4.jpg" /> 
 <img src="http://ru.fishki.net/picsw/012009/23/prislannoe/ray_2006.jpg" />
