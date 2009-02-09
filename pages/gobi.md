@@ -1,3 +1,4 @@
+* とゆうのが真意です。
 * だっておwwwwwwwww
 * Dan the Geek
 * 大麻ひかりです。
