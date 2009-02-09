@@ -1,3 +1,4 @@
+* だっておwwwwwwwww
 * Dan the Geek
 * 大麻ひかりです。
 * クソめんどくさいわ！
