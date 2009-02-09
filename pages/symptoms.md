@@ -1,3 +1,5 @@
+* いす壊れた
+* ファンからゴポゴポって感じの音が
 * <img src="http://www.nastynets.com/secretstash/pamela.gif" />
 * <img src="http://22.media.tumblr.com/cyOSLXuNNj6bfr1lzJZ6rIU6o1_500.jpg" />
 * <img src="http://www.kusuriya.com/kanpou/mid/kafg.mid" />
