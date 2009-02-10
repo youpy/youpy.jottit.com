@@ -1,2 +1,2 @@
-<img src="http://de.fishki.net/picsw/022009/10/zeneva/006.jpg" width="100%"/>
+<img src="http://www.marckremers.com/portrait-of-an-unknown-document/portrait-of-an-unknown-document.jpg" width="100%"/>
 
