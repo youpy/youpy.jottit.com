@@ -1,3 +1,5 @@
+<img src="http://6.media.tumblr.com/3HWhJ1T6fjs3cv8hihhZo5W2o1_400.jpg" />
+<img src="http://4.media.tumblr.com/3HWhJ1T6fjs3cgjgBqUVc7Uvo1_400.jpg" />
 <img src="http://17.media.tumblr.com/ln1YVs4Jhjmtd44dyee6Pb8Jo1_500.jpg" />
 <img src="http://nastynets.com/secretstash/blogstuff/2009/02/talkingstatue3.jpg" />
 <img src="http://www.fantaterror.com/Directores/ADeOssorio4.jpg" /> 
