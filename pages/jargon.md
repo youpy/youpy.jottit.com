@@ -1,3 +1,4 @@
+* 検索女=検索の早い女。また、これを気にする女。
 * TL=ティーンズラブ
 * TL=TOPLACE。[オーダーメイドのかつら販売 ｜TOPLACE JAPAN](http://www.toplace-j.com/)
 * グラタン=洋風焼きおでん
