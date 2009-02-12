@@ -1,3 +1,4 @@
+<img src="http://bizletter1.exodus4u.com/img1.jpg">
 <img src="http://21.media.tumblr.com/dD3KtlSZxjtmcwvqNVlFLkiHo1_500.jpg">
 <img src="http://www.nastynets.com/secretstash/japanesead.gif" />
 <img src="http://www.miyaspa.com/hotel_gif/anim_syofuen.gif"/>
