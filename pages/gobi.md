@@ -88,7 +88,6 @@
 * （個人差があります）
 * （平坦に）
 * Best regards,
-* with T
 * ;-)
 * .rar
 * (Chapter II)
