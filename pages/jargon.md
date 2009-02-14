@@ -1,3 +1,4 @@
+* Ajax=Asynchronous JavaScript + XML
 * WYWSIWN=what you see is what you need
 * 検索女=検索の早い女。また、これを気にする女。
 * TL=タイムライン
