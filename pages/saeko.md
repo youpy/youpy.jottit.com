@@ -1,6 +1,7 @@
 * <font color="pink">saekoたん…</font>
 
 <img src="http://bradysales.org/DOLL-2.jpg" width="100%"/>
+<img src="http://19.media.tumblr.com/yZ9zfIMqkjvon3xrcvHInDeUo1_500.jpg">
 <img src="http://gyazo.com/51d4218c22ef708bbbfd2df8f74fdc2c.png" width="100%">
 <img src="http://www.bjwinslow.com/albums/twisted_toys/furby_autopsy.jpg" />
 <img src="http://img134.imagevenue.com/aAfkjfp01fo1i-25391/loc876/67030_l_6e46cc85a628c405752af11be0c6d49f_122_876lo.jpg"/>
