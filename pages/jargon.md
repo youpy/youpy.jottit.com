@@ -1,3 +1,4 @@
+* to go gaga=頭がおかしくなる、ぼける
 * サーシャ=[Flickr: kromka's stuff tagged with me](http://www.flickr.com/photos/kromka/tags/me/)
 * Ajax=Asynchronous JavaScript + XML
 * WYWSIWN=what you see is what you need
