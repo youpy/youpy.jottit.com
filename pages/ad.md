@@ -1,6 +1,6 @@
-<img src="http://i.yimg.jp/images/ks/official/qa/bg_detail_status.gif" />
+<img src="http://www.ideaxidea.com/wp-content/uploads/2009/02/spam.gif" width="100%"/>
+<img src="http://i.yimg.jp/images/ks/official/qa/bg_detail_status.gif" width="100%" />
 <img src="http://www.jshoppers.com/img/sorry.gif" />
-<img src="http://www.ideaxidea.com/wp-content/uploads/2009/02/spam.gif" />
 <img src="http://www.b-get.jp/share/common/h_img01.gif" />
 <img src="http://ec2.images-amazon.com/images/I/318G7qYzPyL._SL500_AA280_.jpg" />
 <img src="http://ec2.images-amazon.com/images/I/413XZqD01OL._SL500_AA280_.jpg" />
