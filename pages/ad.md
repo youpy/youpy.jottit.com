@@ -1,5 +1,6 @@
 <img src="http://www.jshoppers.com/img/sorry.gif" />
 <img src="http://www.ideaxidea.com/wp-content/uploads/2009/02/spam.gif" />
+<img src="http://www.b-get.jp/share/common/h_img01.gif" />
 
 
 <img src="http://ecx.images-amazon.com/images/I/31KwmgXkzgL._SL160_.jpg" />
