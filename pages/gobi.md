@@ -1,3 +1,4 @@
+* （800×480ドット）
 * & The Family Stone
 * (0 Puntos)
 * [再]
