@@ -4,6 +4,7 @@
 
 <img src="http://ecx.images-amazon.com/images/I/31KwmgXkzgL._SL160_.jpg" />
 <img src="http://bizletter1.exodus4u.com/img1.jpg">
+<img src="http://googleads.g.doubleclick.net/pagead/imgad?id=CJ_EirfQjbLvGRCgARjYBDIIqwUUfLt60vQ" />
 <img src="http://21.media.tumblr.com/dD3KtlSZxjtmcwvqNVlFLkiHo1_500.jpg">
 <img src="http://www.nastynets.com/secretstash/japanesead.gif" />
 <img src="http://www.miyaspa.com/hotel_gif/anim_syofuen.gif"/>
