@@ -1,3 +1,10 @@
+* ストナン=ストリートナンパ
+* ブーメラン=ケータイやメルアドを教え、向こうからは教わっていなかった相手から、後で連絡をもらうこと
+* 準即=２度目に会ったときにセックスに持ち込むこと
+* 準々即=３度目に会ったときにセックスに持ち込むこと
+* ジーンズ=陣痛
+* チーター=チートを使っている人
+* ヤリコン=槍のコンテスト
 * to go gaga=頭がおかしくなる、ぼける
 * サーシャ=[Flickr: kromka's stuff tagged with me](http://www.flickr.com/photos/kromka/tags/me/)
 * Ajax=Asynchronous JavaScript + XML
