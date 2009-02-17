@@ -7,6 +7,7 @@
 <img src="http://ec2.images-amazon.com/images/I/41wvimbo40L._SL500_AA280_.jpg" />
 <img src="http://ec2.images-amazon.com/images/I/41s4NKc9gPL._SL500_AA280_.jpg" />
 <img src="http://ec2.images-amazon.com/images/I/41f2T6gb-zL._SL500_AA280_.jpg" />
+<img src="http://img.ak.impact-ad.jp/ic/yl/2008/06/hanaharu-d275e305798b030bc5dd4631b0755ba2adf00764.gif" />
 
 
 <img src="http://googleads.g.doubleclick.net/pagead/imgad?id=COi-krPE576S5QEQ2AUYTzIIs9CcKWR1nrY" width="100%">
