@@ -1,4 +1,5 @@
 <img src="http://www.ideaxidea.com/wp-content/uploads/2009/02/spam.gif" width="100%"/>
+<img src="http://www.ideaxidea.com/wp-content/uploads/2009/02/t_top.jpg" width="100%"/>
 <img src="http://i.yimg.jp/images/ks/official/qa/bg_detail_status.gif" width="100%" />
 <img src="http://www.jshoppers.com/img/sorry.gif" />
 <img src="http://www.b-get.jp/share/common/h_img01.gif" />
