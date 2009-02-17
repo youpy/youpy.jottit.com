@@ -9,7 +9,7 @@
 <img src="http://ec2.images-amazon.com/images/I/41f2T6gb-zL._SL500_AA280_.jpg" />
 
 
-
+<img src="http://googleads.g.doubleclick.net/pagead/imgad?id=COi-krPE576S5QEQ2AUYTzIIs9CcKWR1nrY" width="100%">
 <img src="http://ecx.images-amazon.com/images/I/31KwmgXkzgL._SL160_.jpg" />
 <img src="http://bizletter1.exodus4u.com/img1.jpg">
 <img src="http://googleads.g.doubleclick.net/pagead/imgad?id=CJ_EirfQjbLvGRCgARjYBDIIqwUUfLt60vQ" />
