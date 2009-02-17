@@ -21,4 +21,5 @@
 <img src="http://ai.yimg.jp/bdv/8338/749293/20090202/k5_1pr2sc93fnhae_cw_-a.gif">
 <img src="http://www.miyaspa.com/hotel_gif/anim_sikainami.gif" />
 <img src="http://event.yokohama150.org/common/img/banner3.gif" />
+<img src="http://journal.mycom.co.jp/news/2009/02/16/040/images/001l.jpg">
 
