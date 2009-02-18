@@ -1,3 +1,4 @@
+* ikisaki_kun
 * oshiete-kun
 * shikakun
 * oginokun
