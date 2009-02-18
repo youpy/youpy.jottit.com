@@ -1,3 +1,4 @@
+- <img src="http://www.kayac.com/kayacv/0px/1000px/1000px/00b4f5/ffffff/left/%E3%81%8A%E3%81%AA%E3%81%8B%E3%81%99%E3%81%84%E3%81%9F...">
 - ゆれてねーだろあほか ![del](http://assets2.twitter.com/images/icon_trash.gif)
 - ![protect](http://assets1.twitter.com/images/icon_red_lock.gif) ジャムおじさんはどう考えても呪術師
 - ![protect](http://assets1.twitter.com/images/icon_red_lock.gif) listening Ekkehard Ehlers - Plays
