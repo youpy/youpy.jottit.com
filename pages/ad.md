@@ -1,5 +1,7 @@
+<img src="http://adwinpact.com/img014.gif" />
 <img src="http://www.ideaxidea.com/wp-content/uploads/2009/02/spam.gif" width="100%"/>
 <img src="http://www.ideaxidea.com/wp-content/uploads/2009/02/t_top.jpg" width="100%"/>
+<img src="http://adwinpact.com/img020.gif" />
 <img src="http://i.yimg.jp/images/ks/official/qa/bg_detail_status.gif" width="100%" />
 <img src="http://www.jshoppers.com/img/sorry.gif" />
 <img src="http://www.b-get.jp/share/common/h_img01.gif" />
@@ -9,6 +11,7 @@
 <img src="http://ec2.images-amazon.com/images/I/41s4NKc9gPL._SL500_AA280_.jpg" />
 <img src="http://ec2.images-amazon.com/images/I/41f2T6gb-zL._SL500_AA280_.jpg" />
 <img src="http://img.ak.impact-ad.jp/ic/yl/2008/06/hanaharu-d275e305798b030bc5dd4631b0755ba2adf00764.gif" />
+<img src="http://adwinpact.com/img019.gif" />
 
 
 <img src="http://googleads.g.doubleclick.net/pagead/imgad?id=COi-krPE576S5QEQ2AUYTzIIs9CcKWR1nrY" width="100%">
@@ -24,4 +27,6 @@
 <img src="http://www.miyaspa.com/hotel_gif/anim_sikainami.gif" />
 <img src="http://event.yokohama150.org/common/img/banner3.gif" />
 <img src="http://journal.mycom.co.jp/news/2009/02/16/040/images/001l.jpg">
+<img src="http://adwinpact.com/img021.gif" />
+
 
