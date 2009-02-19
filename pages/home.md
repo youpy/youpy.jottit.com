@@ -1,2 +1,2 @@
-<img src="http://www.marckremers.com/portrait-of-an-unknown-document/portrait-of-an-unknown-document.jpg" width="100%"/>
+<img src="http://www.kayac.com/kayacv/0px/1000px/1000px/00b4f5/ffffff/left/%E2%96%A0" width="100%"/>
 
