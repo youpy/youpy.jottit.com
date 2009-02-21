@@ -1,4 +1,5 @@
 <img src="http://adwinpact.com/img014.gif" />
+<img src="http://f.hatena.ne.jp/images/fotolife/e/emeclix/20090220/20090220004726.gif">
 <img src="http://www.ideaxidea.com/wp-content/uploads/2009/02/spam.gif" width="100%"/>
 <img src="http://www.ideaxidea.com/wp-content/uploads/2009/02/t_top.jpg" width="100%"/>
 <img src="http://adwinpact.com/img020.gif" />
