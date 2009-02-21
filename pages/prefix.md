@@ -1,3 +1,4 @@
+* watching:
 * @masui
 * リリー・アレンも3枚購入！
 * Oops!
