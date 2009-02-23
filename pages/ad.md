@@ -1,3 +1,4 @@
+<img src="http://www.takutomo.com/img/title.jpg" />
 <img src="http://adwinpact.com/img014.gif" />
 <img src="http://f.hatena.ne.jp/images/fotolife/e/emeclix/20090220/20090220004726.gif">
 <img src="http://www.ideaxidea.com/wp-content/uploads/2009/02/spam.gif" width="100%"/>
