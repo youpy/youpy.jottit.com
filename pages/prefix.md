@@ -1,3 +1,4 @@
+* 【重要なお知らせ】
 * http://turnyournameintoaface.com/?name=
 * GM_
 * 今日は祝日だからみんな
