@@ -1,3 +1,4 @@
+* ARIA=Accessible Rich Internet Applications
 * リアル=[無料ﾐﾆﾌﾞﾛｸﾞ CROOZﾘｱﾙ](http://real.crooz.jp/)
 * クソアマ=世界遺産
 * エモい=スパイシー。しびれる。
