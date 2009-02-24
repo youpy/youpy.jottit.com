@@ -16,8 +16,9 @@
 <img src="http://img.ak.impact-ad.jp/ic/yl/2008/06/hanaharu-d275e305798b030bc5dd4631b0755ba2adf00764.gif" />
 <img src="http://adwinpact.com/img019.gif" />
 
-
+<img src="http://de.fishki.net/picsw/022009/20/spid/016.jpg" />
 <img src="http://googleads.g.doubleclick.net/pagead/imgad?id=COi-krPE576S5QEQ2AUYTzIIs9CcKWR1nrY" width="100%">
+<img src="http://de.fishki.net/picsw/022009/20/spid/008.jpg">
 <img src="http://ecx.images-amazon.com/images/I/31KwmgXkzgL._SL160_.jpg" />
 <img src="http://bizletter1.exodus4u.com/img1.jpg">
 <img src="http://googleads.g.doubleclick.net/pagead/imgad?id=CJ_EirfQjbLvGRCgARjYBDIIqwUUfLt60vQ" />
@@ -31,5 +32,5 @@
 <img src="http://event.yokohama150.org/common/img/banner3.gif" />
 <img src="http://journal.mycom.co.jp/news/2009/02/16/040/images/001l.jpg">
 <img src="http://adwinpact.com/img021.gif" />
-
+<img src="http://de.fishki.net/picsw/022009/20/spid/018.jpg">
 
