@@ -1,3 +1,4 @@
+<img src="http://m1.jp.2mdn.net/viewad/2026005/header_sb.gif"/>
 <img src="http://www.ideaxidea.com/wp-content/uploads/2009/02/wimax.gif" />
 <img src="http://www.takutomo.com/img/title.jpg" />
 <img src="http://adwinpact.com/img014.gif" />
@@ -18,7 +19,8 @@
 
 <img src="http://de.fishki.net/picsw/022009/20/spid/016.jpg" />
 <img src="http://googleads.g.doubleclick.net/pagead/imgad?id=COi-krPE576S5QEQ2AUYTzIIs9CcKWR1nrY" width="100%">
-<img src="http://de.fishki.net/picsw/022009/20/spid/008.jpg">
+<img src="http://de.fishki.net/picsw/022009/20/spid/008.jpg
+">
 <img src="http://ecx.images-amazon.com/images/I/31KwmgXkzgL._SL160_.jpg" />
 <img src="http://bizletter1.exodus4u.com/img1.jpg">
 <img src="http://googleads.g.doubleclick.net/pagead/imgad?id=CJ_EirfQjbLvGRCgARjYBDIIqwUUfLt60vQ" />
