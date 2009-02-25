@@ -1,3 +1,4 @@
+* SQL=魔法
 * W波=P波とS波の間に存在する波
 * ARIA=Accessible Rich Internet Applications
 * リアル=[無料ﾐﾆﾌﾞﾛｸﾞ CROOZﾘｱﾙ](http://real.crooz.jp/)
