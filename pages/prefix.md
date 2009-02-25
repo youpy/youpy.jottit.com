@@ -1,3 +1,5 @@
+* 拝啓
+* 前略
 * http://www.google.co.jp/search?q=
 * http://k.hatena.ne.jp/keywordblog/
 * http://ja.wikipedia.org/wiki/
