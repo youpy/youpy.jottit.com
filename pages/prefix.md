@@ -1,3 +1,4 @@
+* 正味の話、
 * 拝啓
 * 前略
 * http://www.google.co.jp/search?q=
