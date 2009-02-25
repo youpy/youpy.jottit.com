@@ -1,3 +1,8 @@
+<blockquote>
+ただでさえクセのある髪の毛が天高くまっすぐ伸びていく、しかも後頭部だけ
+</blockquote>
+
+
 <img src="http://de.fishki.net/picsw/022009/18/ears/004.jpg" />
 <img src="http://img2.wiredvision.jp/news/200902/2009021622-1.jpg" />
 <img src="http://de.fishki.net/picsw/022009/11/manwomen/002.jpg" />
