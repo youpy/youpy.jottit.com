@@ -1,3 +1,4 @@
+<img src="http://www.ideaxidea.com/wp-content/uploads/2009/02/katsuma.jpg">
 <img src="http://m1.jp.2mdn.net/viewad/2026005/header_sb.gif"/>
 <img src="http://www.ideaxidea.com/wp-content/uploads/2009/02/wimax.gif" />
 <img src="http://www.takutomo.com/img/title.jpg" />
