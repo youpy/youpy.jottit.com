@@ -1,3 +1,4 @@
+* 天職=天使の無職
 * SQL=魔法
 * W波=P波とS波の間に存在する波
 * ARIA=Accessible Rich Internet Applications
