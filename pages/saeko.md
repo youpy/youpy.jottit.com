@@ -11,7 +11,9 @@
 * 14歳のある日、SAEKOは“運命の声”を聞く。「貴方はこの為に生まれてきた」と。
 * 感性豊かな少女であるとともに、時おり人には見えないもの・聞こえないものを感じるなど、幼少時より霊的な感覚にも鋭いものがあった。
 
+<img src="http://data.tumblr.com/jVXA3yeekkeyji98BYAtwaEoo1_500.png" />
 <img src="http://4.media.tumblr.com/Mc7wuoHVqj5lpcp30GoipAJjo1_500.jpg" width=80%>
+<img src="http://data.tumblr.com/na6iLGzUCkdvmpq8CPMpAFFqo1_500.jpg" />
 
 
 * <font size="7">**X**</font>
