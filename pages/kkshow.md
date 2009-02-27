@@ -1,9 +1,15 @@
 <blockquote>
 ただでさえクセのある髪の毛が天高くまっすぐ伸びていく、しかも後頭部だけ
+
+<img src="http://fphoto.livedoor.biz/0902/kami14.jpg">
 </blockquote>
 
 
 <img src="http://de.fishki.net/picsw/022009/18/ears/004.jpg" />
+<img src="http://fphoto.livedoor.biz/0902/kami13.jpg" />
+<img src="http://fphoto.livedoor.biz/0902/kami09.jpg" />
+<img src="http://fphoto.livedoor.biz/0902/kami15.jpg" />
+<img src="http://fphoto.livedoor.biz/0902/kami21.jpg" />
 <img src="http://img2.wiredvision.jp/news/200902/2009021622-1.jpg" />
 <img src="http://de.fishki.net/picsw/022009/11/manwomen/002.jpg" />
 <img src="http://6.media.tumblr.com/3HWhJ1T6fjs3cv8hihhZo5W2o1_400.jpg" />
