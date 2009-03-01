@@ -1,3 +1,4 @@
+<img src="http://image.rakuten.co.jp/kaikyouichi/cabinet/tare/tare3.jpg" />
 <img src="http://googleads.g.doubleclick.net/pagead/imgad?id=CLCQ1-7l85zQjwEQ0AIYjQIyCJ_WXSsTcwFc" />
 <img src="http://www.ideaxidea.com/wp-content/uploads/2009/02/katsuma.jpg">
 <img src="http://m1.jp.2mdn.net/viewad/2026005/header_sb.gif"/>
