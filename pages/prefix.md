@@ -1,3 +1,4 @@
+* †
 * あるAnonymous Coward 曰く、
 * x
 * 【YOSHIKI】
