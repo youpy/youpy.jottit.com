@@ -1,5 +1,6 @@
+* あるAnonymous Coward 曰く、
 * x
-* 【KOYACHI】
+* 【YOSHIKI】
 * ことほどさように
 * 故
 * マイ
