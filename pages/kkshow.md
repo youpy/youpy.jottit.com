@@ -5,6 +5,7 @@
 </blockquote>
 
 
+<img src="http://photofile.ru/photo/fishki_net/3691669/82922727.jpg" />
 <img src="http://de.fishki.net/picsw/022009/18/ears/004.jpg" />
 <img src="http://fphoto.livedoor.biz/0902/kami13.jpg" />
 <img src="http://i50.photobucket.com/albums/f319/bozola/0000000000000000000-3.jpg" />
