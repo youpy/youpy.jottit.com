@@ -1,3 +1,4 @@
+* 母直伝☆
 * †
 * あるAnonymous Coward 曰く、
 * x
