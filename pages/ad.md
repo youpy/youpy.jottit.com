@@ -1,3 +1,4 @@
+<img src="http://googleads.g.doubleclick.net/pagead/imgad?id=CIi41qKuhtPzmQEQyAEYyAEyCJdbsAFiQ0TY">
 <img src="http://image.rakuten.co.jp/kaikyouichi/cabinet/tare/tare3.jpg" />
 <img src="http://de.fishki.net/picsw/022009/27/obyav/008.jpg">
 <img src="http://googleads.g.doubleclick.net/pagead/imgad?id=CLCQ1-7l85zQjwEQ0AIYjQIyCJ_WXSsTcwFc" />
