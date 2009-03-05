@@ -7,6 +7,7 @@
 <img src="http://www.bjwinslow.com/albums/twisted_toys/furby_autopsy.jpg" />
 <img src="http://img134.imagevenue.com/aAfkjfp01fo1i-25391/loc876/67030_l_6e46cc85a628c405752af11be0c6d49f_122_876lo.jpg"/>
 <img src="http://15.media.tumblr.com/vicErPwd7j3q2gl1SldYuSVSo1_500.jpg" width="100%">
+<img src="http://22.media.tumblr.com/6wdWORaclknux4quYfz8Zd9Do1_500.jpg" />
 
 
 * 14歳のある日、SAEKOは“運命の声”を聞く。「貴方はこの為に生まれてきた」と。
