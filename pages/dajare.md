@@ -1,3 +1,5 @@
+* モナカ瞳
+* fuck the shut up eat some sushi
 * 勘ピューター
 * いくら面白法人でも怒る
 * C. Spencer イエ～イ
