@@ -1,3 +1,4 @@
+* バッテリーも絶命
 * <img src="http://1.media.tumblr.com/TCJrI4Ms9kqb7k915XT4ieHAo1_500.jpg">
 * いす壊れた
 * ファンからゴポゴポって感じの音が
