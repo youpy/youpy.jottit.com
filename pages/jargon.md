@@ -1,3 +1,4 @@
+* エモ=エモーショナル・ハードコア
 * 99%=だいたい
 * JB=Jailbreak
 * 青歯=Bluetooth
