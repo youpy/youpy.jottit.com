@@ -1,3 +1,4 @@
+* ![image](http://s5.tinypic.com/11imwix.jpg)
 * 死
 * <img src="http://www.crunchgear.com/wp-content/uploads/2008/06/gcubik4-560x526.gif">
 * バッテリーも絶命
