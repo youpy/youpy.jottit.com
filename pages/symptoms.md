@@ -1,3 +1,4 @@
+* <img src="http://www.crunchgear.com/wp-content/uploads/2008/06/gcubik4-560x526.gif">
 * バッテリーも絶命
 * <img src="http://1.media.tumblr.com/TCJrI4Ms9kqb7k915XT4ieHAo1_500.jpg">
 * いす壊れた
