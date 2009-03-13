@@ -1,3 +1,4 @@
+* <img src="http://img3-a.dena.ne.jp/ex31/cb/6/687542/9/15674953_1.jpg" />
 * ![image](http://s5.tinypic.com/11imwix.jpg)
 * 死
 * <img src="http://www.crunchgear.com/wp-content/uploads/2008/06/gcubik4-560x526.gif">
