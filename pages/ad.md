@@ -1,3 +1,4 @@
+<img src="http://wwwstatic.megaupload.com/gui2/cn/tab_02.jpg">
 <img src="http://gigazine.jp/images/2009/03/09/yoko_ge_nensyu_tate_180_600.gif" />
 <img src="http://googleads.g.doubleclick.net/pagead/imgad?id=CIi41qKuhtPzmQEQyAEYyAEyCJdbsAFiQ0TY">
 <img src="http://image.rakuten.co.jp/kaikyouichi/cabinet/tare/tare3.jpg" />
