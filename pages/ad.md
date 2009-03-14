@@ -1,5 +1,7 @@
 <img src="http://19.media.tumblr.com/tgt5it8RUl0okub0mlUWTdvQo1_500.jpg" />
-<img src="http://wwwstatic.megaupload.com/gui2/cn/tab_02.jpg">
+
+<img src="http://wwwstatic.megaupload.com/gui2/en/tab_02.jpg" /><img src="http://wwwstatic.megaupload.com/gui2/de/tab_02.jpg" /><img src="http://wwwstatic.megaupload.com/gui2/fr/tab_02.jpg" /><img src="http://wwwstatic.megaupload.com/gui2/es/tab_02.jpg" /><img src="http://wwwstatic.megaupload.com/gui2/pt/tab_02.jpg" /><img src="http://wwwstatic.megaupload.com/gui2/nl/tab_02.jpg" /><img src="http://wwwstatic.megaupload.com/gui2/it/tab_02.jpg" /><img src="http://wwwstatic.megaupload.com/gui2/cn/tab_02.jpg" /><img src="http://wwwstatic.megaupload.com/gui2/ct/tab_02.jpg" /><img src="http://wwwstatic.megaupload.com/gui2/jp/tab_02.jpg" /><img src="http://wwwstatic.megaupload.com/gui2/kr/tab_02.jpg" /><img src="http://wwwstatic.megaupload.com/gui2/ru/tab_02.jpg" /><img src="http://wwwstatic.megaupload.com/gui2/fi/tab_02.jpg" /><img src="http://wwwstatic.megaupload.com/gui2/se/tab_02.jpg" /><img src="http://wwwstatic.megaupload.com/gui2/dk/tab_02.jpg" /><img src="http://wwwstatic.megaupload.com/gui2/tr/tab_02.jpg" /><img src="http://wwwstatic.megaupload.com/gui2/sa/tab_02.jpg" /><img src="http://wwwstatic.megaupload.com/gui2/vn/tab_02.jpg" /><img src="http://wwwstatic.megaupload.com/gui2/pl/tab_02.jpg" />
+
 <img src="http://gigazine.jp/images/2009/03/09/yoko_ge_nensyu_tate_180_600.gif" />
 <img src="http://googleads.g.doubleclick.net/pagead/imgad?id=CIi41qKuhtPzmQEQyAEYyAEyCJdbsAFiQ0TY">
 <img src="http://image.rakuten.co.jp/kaikyouichi/cabinet/tare/tare3.jpg" />
