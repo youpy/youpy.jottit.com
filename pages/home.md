@@ -1,3 +1,2 @@
-<img src="http://cdn.last.fm/flatness/global/icon_eq.gif" height="500px"/>
-<img src="http://shigotoba.askul.co.jp/img/admin/image/special/interview/vol2/pic_04.jpg" height="300px">
+![image](http://enterprise.watch.impress.co.jp/cda/static/image/2006/03/15/yamada.jpg)
 
