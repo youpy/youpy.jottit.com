@@ -1,3 +1,4 @@
+* (5x FASTER DOWNLOADS)
 * （疾走）
 * （キラキラ）
 * Your Ad Here
