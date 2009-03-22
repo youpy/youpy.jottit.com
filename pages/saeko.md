@@ -1,7 +1,7 @@
 * <font color="pink">saekoたん…</font>
 
 <img src="http://bradysales.org/DOLL-2.jpg" width="100%"/>
-<img src="http://images.starpulse.com/pictures/2008/08/20/previews/Lady%20GaGa-RWP-000712.jpg" />
+<img src="http://images.starpulse.com/pictures/2008/08/20/previews/Lady%20GaGa-RWP-000712.jpg" height="800" /><img src="http://images.buzzandpeople.com/upload/photos/2009/01/lady-gaga-17-20090116.jpg" height="800">
 <img src="http://park10.wakwak.com/~wadaseifun/hanamidanngo.JPG" width="100%" />
 <img src="http://19.media.tumblr.com/yZ9zfIMqkjvon3xrcvHInDeUo1_500.jpg">
 <img src="http://gyazo.com/51d4218c22ef708bbbfd2df8f74fdc2c.png" width="100%">
