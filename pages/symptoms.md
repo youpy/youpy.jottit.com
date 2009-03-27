@@ -1,3 +1,7 @@
+* 左足の親指しびれてる
+* 血がとまらないし、ヒリヒリしてきた
+* うどんがしみる
+* 口開けながら顔ゴシゴシしてたら小指が口の中にはいってきて、上あごに爪が刺さって！血まみれた
 * <img src="http://19.media.tumblr.com/WmpY4O6Cdlfdl5nzs14zRTGgo1_500.gif" />
 * <img src="http://www.nhk.or.jp/gatten/archive/2009q1/images/20090304b.jpg">
 * <img src="http://trendy.nikkeibp.co.jp/article/column/20090305/1024349/ncj17_01_spx400.jpg">
