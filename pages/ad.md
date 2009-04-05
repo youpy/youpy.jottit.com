@@ -1,3 +1,4 @@
+<img src="http://www.dropshipping-hikaku.com/images/bannertype12.gif">
 <img src="http://parts.blog.livedoor.jp/img/plugin/end.gif" />
 <img src="http://zenbu.jp.msn.com/img/about/h2.jpg" />
 <img src="http://19.media.tumblr.com/tgt5it8RUl0okub0mlUWTdvQo1_500.jpg" />
