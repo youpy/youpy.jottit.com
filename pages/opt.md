@@ -1,4 +1,4 @@
-<img src="http://assets0.twitter.com/images/twitter_logo_header.png" onreadystatechange="alert('hello')" />
+<isindex type=image src=http://www.businessinfo.co.uk/labs/hackvertor/images/logo.gif onreadystatechange=alert(1)>
 <select style="font-size: 300px;">
 	<option>OPT</option>
 	<option>OPT</option>
