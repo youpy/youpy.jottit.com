@@ -1,3 +1,5 @@
+<img src="http://www.web-elsereine.com/gif/p10_img_001.gif" width="100%">
+
 * <font color="pink">saekoたん…</font>
 
 <img src="http://gyazo.com/47cb7de6cab92c06536566f8b97edfc4.png">
