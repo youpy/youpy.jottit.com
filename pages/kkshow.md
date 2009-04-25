@@ -4,7 +4,7 @@
 <img src="http://fphoto.livedoor.biz/0902/kami14.jpg">
 </blockquote>
 
-
+<img src="http://gyazo.com/a0653f3aa33b7e3fc52f7e9655f22d52.png" />
 <img src="http://de.fishki.net/picsw/042009/07/glamour/002.jpg" />
 <img src="http://de.fishki.net/picsw/032009/05/bonus/russia/010.jpg"/>
 <img src="http://photofile.ru/photo/fishki_net/3691669/82922727.jpg" />
