@@ -1,3 +1,4 @@
+<img src="http://www.noboristore.com/furikome/images/top_img.jpg">
 
 <img src="http://www.k5.dion.ne.jp/~a-dieu/pc/img/manga_top_anime.gif" />
 
