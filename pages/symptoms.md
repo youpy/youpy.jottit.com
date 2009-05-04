@@ -1,3 +1,4 @@
+* <img src="http://www.h3.dion.ne.jp/%7Eskmanabe/lecture.gif" />
 * <img src="http://tinyurl.com/d3vze8" />
 * アゴが荒れてる
 * あごギザギザになった
