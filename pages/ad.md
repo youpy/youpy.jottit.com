@@ -1,3 +1,6 @@
+<img src="http://images.apple.com/jp/macbook/images/specs_macbookbox20081014.jpg" width="100%">
+
+
 <img src="http://images.apple.com/jp/macbook/images/title-overview20081014.png">
 
 
