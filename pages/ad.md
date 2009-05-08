@@ -1,7 +1,7 @@
 <img src="http://images.apple.com/jp/macbook/images/specs_macbookbox20081014.jpg" width="100%">
 
 
-<img src="http://images.apple.com/jp/macbook/images/title-overview20081014.png">
+<img src="http://images.apple.com/jp/macbook/images/title-overview20081014.png"><img src="http://images.apple.com/jp/promos/2009/retail_personalshopping/image20090303.png" />
 
 
 <img src="http://images.apple.com/jp/macbook/images/overview-hero20081014.jpg" />
