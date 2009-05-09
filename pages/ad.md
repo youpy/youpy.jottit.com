@@ -1,3 +1,5 @@
+<img src="http://19.media.tumblr.com/5On9hkPuxn8n8ut2mnW7Tkeho1_500.gif" />
+
 <img src="http://images.apple.com/jp/macbook/images/specs_macbookbox20081014.jpg" width="100%">
 <img src="http://ad.rbbtoday.com/images/banner_rakuten-1.png?ad_num=5294;cache=1241759365" />
 
