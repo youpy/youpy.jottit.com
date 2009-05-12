@@ -1,3 +1,5 @@
+<img src="http://izismile.com/img/img2/20090511/gifko_02.gif" />
+
 <img src="http://19.media.tumblr.com/5On9hkPuxn8n8ut2mnW7Tkeho1_500.gif" />
 
 <img src="http://images.apple.com/jp/macbook/images/specs_macbookbox20081014.jpg" width="100%">
