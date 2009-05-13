@@ -1,8 +1,9 @@
+
 <img src="http://izismile.com/img/img2/20090511/gifko_02.gif" />
 
 <img src="http://19.media.tumblr.com/5On9hkPuxn8n8ut2mnW7Tkeho1_500.gif" />
 
-<img src="http://images.apple.com/jp/macbook/images/specs_macbookbox20081014.jpg" width="100%">
+<img src="http://cdn.fastclick.net/fastclick.net/cid141127/media329659.jpg" /><img src="http://images.apple.com/jp/macbook/images/specs_macbookbox20081014.jpg" width="90%">
 <img src="http://ad.rbbtoday.com/images/banner_rakuten-1.png?ad_num=5294;cache=1241759365" />
 
 <img src="http://images.apple.com/jp/macbook/images/title-overview20081014.png"><img src="http://images.apple.com/jp/promos/2009/retail_personalshopping/image20090303.png" />
