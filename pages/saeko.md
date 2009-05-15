@@ -1,7 +1,10 @@
+* <font color="pink">saekoたん…</font>
+
+
 <img src="http://www.web-elsereine.com/gif/p10_img_001.gif" width="100%">
 <img src="http://image.rakuten.co.jp/villdash/cabinet/00691850/img55559653.jpg" />
+<img src="http://gyazo.com/7e4973667119727d48f0ed3b7e8ac53e.png" />
 
-* <font color="pink">saekoたん…</font>
 
 <img src="http://gyazo.com/47cb7de6cab92c06536566f8b97edfc4.png">
 <img src="http://bradysales.org/DOLL-2.jpg" width="100%"/>
