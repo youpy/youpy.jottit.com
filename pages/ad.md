@@ -1,3 +1,4 @@
+<img src="http://ec2.images-amazon.com/images/I/51pAocD99sL._SS420_.jpg" />
 <img src="http://www.cyberagent.co.jp/news/img/download/20090513_1_2.jpg" />
 <img src="http://izismile.com/img/img2/20090511/gifko_02.gif" />
 
