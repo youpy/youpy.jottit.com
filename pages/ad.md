@@ -1,4 +1,4 @@
-
+<img src="http://www.cyberagent.co.jp/news/img/download/20090513_1_2.jpg" />
 <img src="http://izismile.com/img/img2/20090511/gifko_02.gif" />
 
 <img src="http://19.media.tumblr.com/5On9hkPuxn8n8ut2mnW7Tkeho1_500.gif" />
