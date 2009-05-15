@@ -1,4 +1,5 @@
 <img src="http://www.web-elsereine.com/gif/p10_img_001.gif" width="100%">
+<img src="http://image.rakuten.co.jp/villdash/cabinet/00691850/img55559653.jpg" />
 
 * <font color="pink">saekoたん…</font>
 
