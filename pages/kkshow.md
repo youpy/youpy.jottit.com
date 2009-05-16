@@ -1,3 +1,5 @@
+<img src="http://www.epicprops.com/images/whw1.png" />
+
 <blockquote>
 ただでさえクセのある髪の毛が天高くまっすぐ伸びていく、しかも後頭部だけ
 
