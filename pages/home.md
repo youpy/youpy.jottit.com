@@ -1,2 +1,2 @@
-<img src="http://www.fukuoka-jma.go.jp/fukuoka/kansoku/kousou/image/tel.gif" />
+<img src="http://i202.photobucket.com/albums/aa2/anhnh1983/avatar22469_23.gif" />
 
