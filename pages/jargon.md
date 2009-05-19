@@ -1,3 +1,4 @@
+* あ=愛
 * cass=カセット
 * シャッターサングラス=<img src="http://tbn3.google.com/images?q=tbn:BCI_JYhyx_d1gM:http://colorweb.jp/images/item/item_324_3_200807031110.jpg" />
 * Java=JavaScriptの略。
