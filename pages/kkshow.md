@@ -1,11 +1,14 @@
 <img src="http://www.epicprops.com/images/whw1.png" />
 
+
 <blockquote>
 ただでさえクセのある髪の毛が天高くまっすぐ伸びていく、しかも後頭部だけ
 
 <img src="http://fphoto.livedoor.biz/0902/kami14.jpg">
 </blockquote>
 
+<img src="http://de.fishki.net/picsw/052009/22/fashion/010.jpg" />
+<img src="http://de.fishki.net/picsw/052009/22/fashion/006.jpg" />
 <img src="http://gyazo.com/a0653f3aa33b7e3fc52f7e9655f22d52.png" />
 <img src="http://de.fishki.net/picsw/042009/07/glamour/002.jpg" />
 <img src="http://de.fishki.net/picsw/032009/05/bonus/russia/010.jpg"/>
