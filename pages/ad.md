@@ -1,3 +1,13 @@
+<img src="http://www.ensemble-game.com/cbanner01/180x180/01_180x180.jpg" />
+<img src="http://www.ensemble-game.com/cbanner01/180x180/02_180x180.jpg" />
+<img src="http://www.ensemble-game.com/cbanner01/180x180/03_180x180.jpg" />
+<img src="http://www.ensemble-game.com/cbanner01/180x180/04_180x180.jpg" />
+<img src="http://www.ensemble-game.com/cbanner01/180x180/05_180x180.jpg" />
+<img src="http://www.ensemble-game.com/cbanner01/180x180/06_180x180.jpg" />
+<img src="http://www.ensemble-game.com/cbanner01/180x180/07_180x180.jpg" />
+<img src="http://www.ensemble-game.com/cbanner01/180x180/08_180x180.jpg" />
+<img src="http://www.ensemble-game.com/cbanner01/180x180/09_180x180.jpg" />
+<img src="http://www.ensemble-game.com/cbanner01/180x180/10_180x180.jpg" />
 <img src="http://img.ads.mixi.jp/img/banner/2009/05/kenzen_ashiato-421e80c9df111f790756524d297c1bcdd9d2035b.gif">
 <img src="http://thumbnail.image.rakuten.co.jp/@0_mall/t-colle/cabinet/bura/7889b250b.jpg?_ex=250x250&s=0&r=1"/>
 <img src="http://m.cn.2mdn.net/1635787/0519espritline_pa_d.jpg" />
