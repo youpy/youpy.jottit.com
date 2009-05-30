@@ -1,2 +1,2 @@
-<img src="http://spiritsurfers.net/post_files/garf2.jpg" />
+<img src="http://s.ytimg.com/yt/img/master-vfl87445.png" width="100%" />
 
