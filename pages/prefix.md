@@ -1,3 +1,4 @@
+* この度、「Gigazine」で掲載されておりました「楽天、利用者のメールアドレスを含む個人情報を1件10円でダウンロード販売」は全くの事実誤認でございます。
 * OMG I just got over 1000 followers today from http://twittercut.com
 * さて、
 * Wanna See Britney Got Fucked? Wanna See Britney Suck Cock? And Lots More Celebs... http://bit.ly/13QuZH
