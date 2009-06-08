@@ -1,2 +1,2 @@
-<img src="http://s.ytimg.com/yt/img/master-vfl87445.png" width="100%" />
+<img src="http://l.yimg.com/hr/img/del_sprite_views.gif" width="100%" />
 
