@@ -7,6 +7,7 @@
 <img src="http://fphoto.livedoor.biz/0902/kami14.jpg">
 </blockquote>
 
+<img src="http://de.fishki.net/picsw/062009/09/bonus/goth/039_goth.jpg" />
 <img src="http://de.fishki.net/picsw/052009/22/fashion/010.jpg" />
 <img src="http://de.fishki.net/picsw/052009/22/fashion/006.jpg" />
 <img src="http://gyazo.com/a0653f3aa33b7e3fc52f7e9655f22d52.png" />
