@@ -1,2 +1,2 @@
-<img src="http://l.yimg.com/hr/img/del_sprite_views.gif" width="100%" />
+<img src="http://23.media.tumblr.com/MKqQmsn3Yolsx4jawcFvmpW4o1_500.jpg" />
 
