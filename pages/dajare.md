@@ -1,3 +1,4 @@
+* え、もうこんな痴漢
 * <img src="http://www.dajare-sketch.com//media/img_20070225T175811062.jpg">
 * やめなファイル！
 * チキンがタツタ！チキンがタツタ！
