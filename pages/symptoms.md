@@ -1,3 +1,4 @@
+* <img src="http://www.mspaintporn.net/hospital.JPG" />
 * <img src="http://www.nolk.com/poto/kih_san_010_ill.gif" />
 * <img src="http://friedensonphotos.com/tedsphotos/esl/doctor/whatswrong1and2/flashcard29_11.gif" height="300"/>
 * <img src="http://6.media.tumblr.com/0ddGiMjzEn299j4dei5Y5Ck4o1_500.jpg" />
