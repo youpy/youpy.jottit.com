@@ -1,3 +1,5 @@
+<img src="http://de.fishki.net/picsw/042009/28/students/108.jpg" />
+
 <img src="http://www.epicprops.com/images/whw1.png" />
 
 
