@@ -1,4 +1,5 @@
-* <img src="http://www.hasimoto999.aki.gs/img-box/img/3420.jpg" />
+* <img src="http://de.fishki.net/picsw/062009/23/video/zadushila_reportera.jpg" />
+* <img src="http://www.hasimoto999.aki.gs/img-box/img/3420.jpg" * />
 * <img src="http://image.blog.livedoor.jp/blv42/imgs/d/b/db56e2a7.jpg" />
 * <img src="http://fts.s.kanazawa-u.ac.jp/fts/old/sciencekun/image/math.gif" />
 * <img src="http://4.media.tumblr.com/cdvDAoiSTp02nefuJTI7rn14o1_500.gif">
