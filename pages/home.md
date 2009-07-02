@@ -1,2 +1,2 @@
-<img src="http://i40.tinypic.com/6ibl1s.jpg" />
+<img src="http://blog.sphinn.jp/wp-content/themes/sphinn/img/CyberAgent.gif" />
 
