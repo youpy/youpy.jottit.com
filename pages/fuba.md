@@ -1,4 +1,4 @@
-<img src="http://s3.amazonaws.com/twitpic/photos/large/739126.jpg" />
+<img src="http://s3.amazonaws.com/twitpic/photos/large/739126.jpg?AWSAccessKeyId=0ZRYP5X5F6FSMBCCSE82&Expires=1246696359&Signature=iFp%2F8V0IwJk8TGB5jdTXT4fwDyg%3D" />
 <img src="http://21.media.tumblr.com/KpyAGjxPZmpzx4i8ad2gj9Smo1_500.jpg" />
 <img src="http://www.kiva.org/img/w800/253174.jpg" />
 <img src="http://adecarvalho.typepad.com/photos/uncategorized/orquestra_de_fuba.jpg"/>
