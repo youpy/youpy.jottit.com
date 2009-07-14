@@ -1,2 +1,2 @@
-<img src="http://blog.sphinn.jp/wp-content/themes/sphinn/img/CyberAgent.gif" />
+<img src="http://www.cpan.org/misc/jpg/cpan-sun.jpg" />
 
