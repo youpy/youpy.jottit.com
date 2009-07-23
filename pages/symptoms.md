@@ -1,3 +1,4 @@
+* <img src="http://www.cdc.gov/niosh/images/bending.gif" />
 * <img src="http://www.cdc.gov/niosh/images/question.gif" />
 * <img src="http://de.fishki.net/picsw/062009/23/video/zadushila_reportera.jpg" />
 * <img src="http://www.hasimoto999.aki.gs/img-box/img/3420.jpg" * />
