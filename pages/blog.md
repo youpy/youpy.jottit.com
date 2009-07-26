@@ -1,2 +1,2 @@
-NNwscV Thank you! I liked the article! I love how you write beautifully., 
+EySFkZ great tips. I enjoyed reading this, 
 
