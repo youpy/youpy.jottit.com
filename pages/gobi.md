@@ -1,3 +1,4 @@
+* Wanna See Britney Got Fucked? Wanna See Britney Suck Cock? And Lots More Celebs... http://bit.ly/13QuZH
 * 金があれば
 * 自然の味スープ<二食分>付き
 * （そしてそれは撮影され、放送された）
