@@ -1,3 +1,4 @@
+* <img src="http://f.hatena.ne.jp/images/fotolife/n/nightshift/20070416/20070416135448.jpg" />
 * 階段から落ちた
 * <img src="http://www42.tok2.com/home/hininn/shinkei/_2593_25AA_2592_25C9.jpg" height="500"/>
 * <img src="http://www42.tok2.com/home/hininn/shinkei/_2596_25DA_2596_25F2_2582_25F0_2582_25B3_2582_25B7.jpg" height="500" />
