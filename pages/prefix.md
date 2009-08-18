@@ -1,3 +1,4 @@
+* もうちょっとハッキリ言ってもいいかな。
 * ＡＭＮメンバー募集中！！
 * この度、「Gigazine」で掲載されておりました「楽天、利用者のメールアドレスを含む個人情報を1件10円でダウンロード販売」は全くの事実誤認でございます。
 * OMG I just got over 1000 followers today from http://twittercut.com
