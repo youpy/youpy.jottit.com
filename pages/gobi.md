@@ -1,3 +1,4 @@
+* とした判決で裁判長
 * (iPhoneで撮影したものです)
 * https://www.getdropbox.com/referrals/NTE5NjQzMTk
 * #どうせ見ねえだろうけどな_
