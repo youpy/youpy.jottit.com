@@ -1,3 +1,5 @@
+* <img src="http://www.hadonokai.com/saru13.gif">
+* <img src="http://www.hadonokai.com/saru5.gif">
 * <img src="http://f.hatena.ne.jp/images/fotolife/n/nightshift/20070416/20070416135448.jpg" />
 * 階段から落ちた
 * <img src="http://www42.tok2.com/home/hininn/shinkei/_2593_25AA_2592_25C9.jpg" height="500"/>
