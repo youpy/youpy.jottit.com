@@ -1,4 +1,5 @@
 <img src="http://homepage2.nifty.com/equus/sayeko_fullface,700_w.jpg" />
+<img src="http://de.fishki.net/picsw/092009/24/pics/photopodborka_120.jpg" />
 
 * <font color="pink">saekoたん…</font>
 
