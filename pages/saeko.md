@@ -1,5 +1,9 @@
+<img src="http://homepage2.nifty.com/equus/sayeko_fullface,700_w.jpg" />
+
 * <font color="pink">saekoたん…</font>
 
+<img src="http://homepage2.nifty.com/equus/kng02_e_02,600.jpg" />
+<img src="http://homepage2.nifty.com/equus/kng01_a,600.jpg" />
 <img src="http://6.media.tumblr.com/2TdG78uXTp0s8w6uZhM4JTB9o1_500.jpg" />
 <img src="http://imgs.inkfrog.com/pix/allproauthentics/saeko_dokyu_1.JPG" />
 <img src="http://www.web-elsereine.com/gif/p10_img_001.gif" width="100%">
