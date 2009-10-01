@@ -1,3 +1,4 @@
+* <img src="http://5.media.tumblr.com/17144166_500.jpg" />
 * <img src="http://www.hadonokai.com/saru13.gif">
 * <img src="http://www.hadonokai.com/saru5.gif">
 * <img src="http://f.hatena.ne.jp/images/fotolife/n/nightshift/20070416/20070416135448.jpg" />
