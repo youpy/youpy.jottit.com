@@ -1,3 +1,4 @@
+* <img src="http://www.likeneveralways.com/images/disease.gif"/>
 * <img src="http://5.media.tumblr.com/17144166_500.jpg" />
 * <img src="http://www.hadonokai.com/saru13.gif">
 * <img src="http://www.hadonokai.com/saru5.gif">
