@@ -11,6 +11,8 @@
 <img src="http://fphoto.livedoor.biz/0902/kami14.jpg">
 </blockquote>
 
+<img src="http://2.bp.blogspot.com/_RwmGaB6TA0s/SseQHm5CP0I/AAAAAAAAH2w/fooAwlP6_HM/s1600-h/wtf.png" />
+
 <img src="http://de.fishki.net/picsw/062009/09/bonus/goth/039_goth.jpg" />
 <img src="http://de.fishki.net/picsw/052009/22/fashion/010.jpg" />
 <img src="http://de.fishki.net/picsw/052009/22/fashion/006.jpg" />
