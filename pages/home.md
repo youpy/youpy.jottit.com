@@ -1,2 +1,3 @@
-<img src="http://img.photobucket.com/albums/v243/brennaaa/hand2jpg90b23345-4b2c-4218-94b6-834.jpg" />
+<img src="http://de.fishki.net/picsw/102009/05/video/smeshnye_momenty_na_gorkax.jpg" width="1000"/>
+<img src="http://coliss.com/wp-content/uploads-2009-2d/2009100802-07.png">
 
