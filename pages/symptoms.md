@@ -1,3 +1,4 @@
+* <img src="http://www.sugisetsu.net/stretch/img/st03.gif" />
 * 頭痛圧ざわざわ感顔〈終〉
 * <img src="http://www.likeneveralways.com/images/disease.gif"/>
 * <img src="http://5.media.tumblr.com/17144166_500.jpg" />
