@@ -1,3 +1,4 @@
+<img src="http://www.microsoft.com/security_essentials/content/ja-jp/images/hero.jpg" />
 <img src="http://8.media.tumblr.com/HSuiT1qwKocflin7KKG3pf5To1_500.jpg" />
 <img src="http://6.media.tumblr.com/SPCu3MprzoagbotdUERkmDJmo1_500.png"/>
 
