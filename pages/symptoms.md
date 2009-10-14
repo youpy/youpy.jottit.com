@@ -1,3 +1,5 @@
+* 
+<img src="http://blog-imgs-15-origin.fc2.com/w/a/r/waranote/91010-745.jpg" />
 * <img src="http://www.sugisetsu.net/stretch/img/st03.gif" />
 * 頭痛圧ざわざわ感顔〈終〉
 * <img src="http://www.likeneveralways.com/images/disease.gif"/>
