@@ -1,3 +1,4 @@
+<img src="http://farm3.static.flickr.com/2432/4013875848_e156dab78c.jpg" />
 <img src="http://de.fishki.net/picsw/082009/27/bad/023.jpg"/>
 
 <img src="http://de.fishki.net/picsw/042009/28/students/108.jpg" />
