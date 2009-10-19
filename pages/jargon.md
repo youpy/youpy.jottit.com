@@ -1,3 +1,4 @@
+* cex=sex
 * シモやん=Mike Simonetti
 * ブラジャー=ブラウザー
 * 捨印=凶器
