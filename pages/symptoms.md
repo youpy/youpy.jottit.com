@@ -1,3 +1,4 @@
+* <img src="http://farm3.static.flickr.com/2494/4025480615_3a1589e243.jpg" >
 * 
 <img src="http://blog-imgs-15-origin.fc2.com/w/a/r/waranote/91010-745.jpg" />
 * <img src="http://www.sugisetsu.net/stretch/img/st03.gif" />
