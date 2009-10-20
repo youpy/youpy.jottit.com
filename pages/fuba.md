@@ -7,6 +7,5 @@
 <img src="http://shop.genesis-ec.com/07100/pic/103360_1.jpg" />
 <img src="http://news.nationalgeographic.com/news/bigphotos/images/081111-fast-food-corn_big.jpg" />
 <img src="http://www.thebrainmuscleworkout.com/image/walking_brain/DSC01157.JPG">
-<img src="http://blog-imgs-34-origin.fc2.com/m/u/g/mugi22/200910131200007.jpg" />
 
 
