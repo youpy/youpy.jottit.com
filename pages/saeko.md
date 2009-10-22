@@ -1,5 +1,6 @@
 * <font color="gold">貴様</font>
 
+<img src="http://4.bp.blogspot.com/_UT2XJXPyLV8/St6XamrxWRI/AAAAAAAAQP4/DNDgtSGsn4c/s1600/tumblr_kr6b2ojIg21qzadq3o1_500.jpg" />
 <img src="http://4.media.tumblr.com/tumblr_krpu1suhEg1qzs6vdo1_500.jpg">
 <img src="http://14.media.tumblr.com/tumblr_krpuo1mzgE1qzs6vdo1_400.jpg" />
 <img src="http://6.media.tumblr.com/tumblr_krkytuASER1qzs6vdo1_500.jpg" />
