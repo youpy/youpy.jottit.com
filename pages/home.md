@@ -1,3 +1,3 @@
-<img src="http://r.gnavi.co.jp/a887801/img/a887801ps1.gif?t=1246250614" width="100%"/>
+<img src="http://www.ideaxidea.com/wp-content/uploads/2009/10/youtubeload.gif" />
 
 
