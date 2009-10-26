@@ -1,3 +1,4 @@
+* <img src="http://www.kyoto.med.or.jp/health/images/A051.jpg" />
 * <img src="http://www.nikkeibp.co.jp/jp/kenkou/pickup/shared/pick3_ill1_050908.gif" />
 * <img src="http://23.media.tumblr.com/tumblr_krxwfyspbF1qz732no1_500.png" />
 * <img src="http://www.fingerworks.com/images/new_hands/gen_hand_thumb_index_middle_ring_pinky_pinch_mirror.png" />
