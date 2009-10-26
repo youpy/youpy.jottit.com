@@ -1,5 +1,7 @@
 * <font color="deeppink">サエコのバカバカッ</font>
 
+<img src="http://12.media.tumblr.com/tumblr_ks31fl6F031qzs6vdo1_400.jpg" />
+
 * <font color="gold">貴様</font>
 
 <img src="http://17.media.tumblr.com/tumblr_krxmi9ooMx1qzs6vdo1_500.jpg" />
