@@ -1,3 +1,4 @@
+* <img src="http://dailyvitamins.jp/wp-content/uploads/2009/09/sado_004_02.gif" />
 * <img src="http://4.media.tumblr.com/tumblr_ks4tm6juUy1qz4c38o1_500.jpg" />
 * <img src="http://www.kyoto.med.or.jp/health/images/A051.jpg" height="800" />
 * <img src="http://www.nikkeibp.co.jp/jp/kenkou/pickup/shared/pick3_ill1_050908.gif" />
