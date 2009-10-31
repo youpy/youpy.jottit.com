@@ -1,3 +1,4 @@
+* 赤い=押す
 * プライスレス=無料
 * cex=sex
 * シモやん=Mike Simonetti
