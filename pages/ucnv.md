@@ -1,3 +1,4 @@
+<img src="http://www.kiva.org/img/w800/417993.jpg" />
 <img src="http://farm3.static.flickr.com/2673/3947017922_7c5fa83f4e_o.gif" />
 <img src="http://www.milesteves.com/gallery/d/372-4/Robocop-72.jpg" />
 <img src="http://www.fashionsnap.com/streetsnap/assets_c/2009/09/08-16-09-08-05_02-thumb-469x700-14278.jpg" />
