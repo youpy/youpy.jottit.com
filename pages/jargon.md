@@ -1,3 +1,4 @@
+* 誰か=koyachiかucnvかswdyhかyoupy
 * リス=list
 * 赤い=押す
 * プライスレス=無料
