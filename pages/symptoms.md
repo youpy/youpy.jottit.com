@@ -1,3 +1,33 @@
+* 湖恐怖症
+* 鏡恐怖症
+* ハゲ頭恐怖症
+* 自分が禿げる事への恐怖はまた別の恐怖症
+* 速度恐怖症
+* 劇場恐怖症
+* 雪恐怖症
+* ダンス恐怖症
+* 詩恐怖症
+* 自転車恐怖症
+* 橋恐怖症
+* ヘソ恐怖症
+* 樹木恐怖症
+* 美人恐怖症
+* 手恐怖症
+* フランス恐怖症
+* 彗星恐怖症
+* アゴ恐怖症
+* フルート恐怖症
+* ヒザ恐怖症
+* 重力恐怖症
+* 肉恐怖症
+* 月恐怖症
+* カワウソ恐怖症
+* ローマ法王恐怖症
+* 音楽恐怖症
+* 雲恐怖症
+* 墓石恐怖症
+* シワ恐怖症
+* 8恐怖症
 * <img src="http://10.media.tumblr.com/tumblr_kscvjq4g4M1qzs6vdo1_500.gif">
 * <img src="http://ec3.images-amazon.com/images/I/41d7xnp-IAL._SS400_.jpg" />
 * <img src="http://www.jetsetrecords.net/images/illustration/search_not_found.gif" />
