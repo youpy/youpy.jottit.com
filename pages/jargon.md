@@ -1,3 +1,4 @@
+* ナマドル=訛っているアイドル
 * 誰か=koyachiかucnvかswdyhかyoupy
 * リス=list
 * 赤い=押す
