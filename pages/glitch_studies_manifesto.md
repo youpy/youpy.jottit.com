@@ -1,4 +1,4 @@
-1. The dominant, continuing search for a noiseless channel has been, and will always be no more than a regrettable, ill-fated dogma.
+1. 雑音の無いチャネルへの絶え間なき探求こそが、痛ましき病的なドグマである。
 
 2. Dispute the operating templates of creative practice by fighting genres and expectations!
 
