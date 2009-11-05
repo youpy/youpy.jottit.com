@@ -7,4 +7,5 @@
 * onigirikun
 * oqunokun
 * ninjinkun
+* alohakun
 
