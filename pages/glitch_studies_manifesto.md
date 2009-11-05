@@ -7,3 +7,5 @@
 4. Use the glitch as an exoskeleton of progress. Find catharsis in disintegration, ruptures and fractures.
 
 
+http://rosa-menkman.blogspot.com/search/label/GlitchStudiesManifesto
+
