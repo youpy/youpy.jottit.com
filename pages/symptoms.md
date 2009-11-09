@@ -1,3 +1,4 @@
+* <img src="http://11.media.tumblr.com/tumblr_kssmwx8Fr31qzs6vdo1_500.jpg" />
 * 湖恐怖症
 * 鏡恐怖症
 * ハゲ頭恐怖症
