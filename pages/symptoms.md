@@ -1,3 +1,13 @@
+* <img src"http://homepage2.nifty.com/uoh/image/Manaka_shouzou.jpg" />
+* <img src"http://homepage2.nifty.com/uoh/kusuri/fig/bussoku.gif" />
+* <img src"http://homepage2.nifty.com/uoh/zutsuu/fig/face.gif" />
+* <img src"http://homepage2.nifty.com/uoh/hosp/fig/gorilla.gif" />
+* <img src"http://homepage2.nifty.com/uoh/1234/fig/SAH-yousu2.GIF" />
+* <img src"http://homepage2.nifty.com/uoh/1234/fig/logo_chugaku.gif" />
+* <img src"http://homepage2.nifty.com/uoh/1234/fig/aura_shinbun.gif" />
+* <img src"http://homepage2.nifty.com/uoh/1234/fig/triangle.gif" />
+* <img src"http://homepage2.nifty.com/uoh/1234/fig/mig_yousu.gif" />
+* <img src="http://homepage2.nifty.com/uoh/1234/fig/ha_tane.gif" />
 * <img src="http://homepage2.nifty.com/uoh/image/index111.JPG" />
 * ![headache](http://homepage2.nifty.com/uoh/1234/fig/hasseikijo.gif)
 * <img src="http://www.assiston.co.jp/photo/1696_25.jpg" />
