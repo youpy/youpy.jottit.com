@@ -1,3 +1,4 @@
+* イラクちゃん
 * どうイタチまして！
 * <img src="http://hakubun.ddo.jp/~sophia/ug/quartet/q97-8.jpg" />
 * 何だかんだと秋葉原
