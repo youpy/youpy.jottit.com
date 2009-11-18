@@ -1,3 +1,4 @@
+* 人は勘定より感情で決める
 * イラクちゃん
 * どうイタチまして！
 * <img src="http://hakubun.ddo.jp/~sophia/ug/quartet/q97-8.jpg" />
