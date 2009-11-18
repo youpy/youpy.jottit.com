@@ -1,3 +1,6 @@
+* 耳だけ熱くなった
+* 頭がボーン→こめかみと耳のしたの圧迫感→耳の奥が強く押し付けられる感じ→ こめかみが重くだるくなる→込め髪の辺りが痒くこそばゆい→こめかみを押すと血管がしこっている→こめかみがつっぱってくる→押しても何ともない
+* 体がほてってきた
 * <img src="http://13.media.tumblr.com/jVXA3yeek2ekufpxnBel1RAL_500.gif" />
 * <img src="http://homepage2.nifty.com/uoh/image/Manaka_shouzou.jpg" />
 * <img src="http://homepage2.nifty.com/uoh/kusuri/fig/bussoku.gif" />
