@@ -52,6 +52,8 @@ a-9 スタイナ＆ウッディ・ヴァスルカ　腐蝕Ⅰ　1970年／約2�
 
 <img src="http://www.aac.pref.aichi.jp/bunjyo/jishyu/2009/aff14/s_img/a9.jpg">
 
+[関連] [1](http://www.ubu.com/film/vasulka.html) [2](http://www.youtube.com/view_play_list?p=D2F9426733D1C261)
+
 ---
 a-10 安藤紘平　オー！マイ・マザー　1969年／約13分
 
