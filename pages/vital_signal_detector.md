@@ -164,6 +164,8 @@ c-7 クリス・バーデン　TVコマーシャル　1973-77　1973-77年/2000�
 
 <img src="http://www.aac.pref.aichi.jp/bunjyo/jishyu/2009/aff14/s_img/c7.jpg">
 
+[関連] [1](http://www.youtube.com/watch?v=v6CMzcfBL2U)
+
 ---
 
 [c-8 TVTV　あと４年（ニクソン再選運動の記録）　1972年／約23分（抜粋）](http://www.metacafe.com/watch/3111144/four_more_years/)
