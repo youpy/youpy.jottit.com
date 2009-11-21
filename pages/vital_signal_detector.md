@@ -57,6 +57,8 @@ a-10 安藤紘平　オー！マイ・マザー　1969年／約13分
 
 <img src="http://www.aac.pref.aichi.jp/bunjyo/jishyu/2009/aff14/s_img/a10.jpg">
 
+---
+
 ## bプログラム：拡張する形式　9作品、約78分 
 収録内容をその場で再生できる「リアルタイム・フィードバック」機能をはじめ、ビデオ固有のさまざまな特性が、映像制作のあり方を刷新していく。
 
@@ -120,39 +122,103 @@ b-9 山本圭吾　Hand No.2　1976年／約8分
 
 当時の文化を支配していた「テレビ」。アーティストや活動家は、テレビの特性を個人的な表現に取り込んで、マスメディアや政治といった巨大な存在に対峙する。
 
+---
+
 c-1 ナムジュン・パイク＆ジャド・ヤルカット　コマーシャルを待ちながら　1966-72/1992年／約7分
+
+<img src="http://www.aac.pref.aichi.jp/bunjyo/jishyu/2009/aff14/s_img/c1.jpg">
+
+---
 
 c-2 中谷芙二子　水俣病を告発する会－テント村ビデオ日記　1971-72年／約21分
 
+<img src="http://www.aac.pref.aichi.jp/bunjyo/jishyu/2009/aff14/s_img/c2.jpg">
+
+---
+
 c-3 松本俊夫　マグネティック・スクランブル　1968年／約1分（映画《薔薇の葬列》からの抜粋）
+
+<img src="http://www.aac.pref.aichi.jp/bunjyo/jishyu/2009/aff14/s_img/c3.jpg">
+
+---
 
 c-4 デイヴィッド・コート　メーデー・リアルタイム　1971年／約9分（抜粋）
 
+<img src="http://www.aac.pref.aichi.jp/bunjyo/jishyu/2009/aff14/s_img/c4.jpg">
+
+---
+
 c-5 ビデオアース東京　橋の下から　1974年／13分
+
+<img src="http://www.aac.pref.aichi.jp/bunjyo/jishyu/2009/aff14/s_img/c5.jpg">
+
+---
 
 [c-6　ダラ・バーンバウム　テクノロジー／トランスフォーメーション：ワンダーウーマン　1978-79年／約6分](http://www.dailymotion.com/video/x4y5e5_dara-birnbaum-technologytransformat_shortfilms)
 
+<img src="http://www.aac.pref.aichi.jp/bunjyo/jishyu/2009/aff14/s_img/c6.jpg">
+
+---
+
 c-7 クリス・バーデン　TVコマーシャル　1973-77　1973-77年/2000年／約4分
 
+<img src="http://www.aac.pref.aichi.jp/bunjyo/jishyu/2009/aff14/s_img/c7.jpg">
+
+---
+
 [c-8 TVTV　あと４年（ニクソン再選運動の記録）　1972年／約23分（抜粋）](http://www.metacafe.com/watch/3111144/four_more_years/)
+
+<img src="http://www.aac.pref.aichi.jp/bunjyo/jishyu/2009/aff14/s_img/c8.jpg">
+
+---
 
 ## dプログラム：共有される記憶　7作品、約52分
 
 個人の日常から歴史的事件まで、撮影者はカメラを媒介してあらゆる被写体とその場の経験を共有し、残された映像は不特定多数の人々の記憶の中に共有されていく。 
 
+---
+
 d-1　久保田成子　ヨーロッパ・オン・1/2インチ・ア・デー　1972年／約9分（抜粋）
+
+<img src="http://www.aac.pref.aichi.jp/bunjyo/jishyu/2009/aff14/s_img/d1.jpg">
+
+---
 
 d-2　中島興　マイ・ライフ　1976-92年／約5分（2チャンネルビデオインスタレーションからの抜粋）
 
+<img src="http://www.aac.pref.aichi.jp/bunjyo/jishyu/2009/aff14/s_img/d2.jpg">
+
+---
+
 d-3 アント・ファーム　アント・ファームの汚れた皿　1971-2003年／約9分
+
+<img src="http://www.aac.pref.aichi.jp/bunjyo/jishyu/2009/aff14/s_img/d3.jpg">
+
+---
 
 d-4 アラン・カプロー　Hello　1969年／約5分
 
+<img src="http://www.aac.pref.aichi.jp/bunjyo/jishyu/2009/aff14/s_img/d4.jpg">
+
+---
+
 d-5 シャーリー・クラーク　ティー・ピー・ビデオ・スペース・トループ　パート1　1970-71年／約5分
+
+<img src="http://www.aac.pref.aichi.jp/bunjyo/jishyu/2009/aff14/s_img/d5.jpg">
+
+---
 
 d-6 中谷芙二子　老人の知恵－文化のDNA　1973年／約11分／映像提供：川崎市市民ミュージアム
 
+<img src="http://www.aac.pref.aichi.jp/bunjyo/jishyu/2009/aff14/s_img/d6.jpg">
+
+---
+
 d-7 ビデオインフォメーションセンター　ラ・アルヘンチーナ頌　1977年／約5分（抜粋）
+
+<img src="http://www.aac.pref.aichi.jp/bunjyo/jishyu/2009/aff14/s_img/d7.jpg">
+
+---
 
 # セクション３　パフォーマンス：行為の記録、身体の記録
 
@@ -160,41 +226,110 @@ d-7 ビデオインフォメーションセンター　ラ・アルヘンチー�
 
 1960年代以降、「行為」そのものを作品に取り込んでいったアーティストたち。そして彼らにとって格好のメディアであったビデオ。様々な行為の痕跡が映像に刻まれていく。
 
+---
+
 e-1 かわなかのぶひろ　キック・ザ・ワールド　1974年／約15分
+
+<img src="http://www.aac.pref.aichi.jp/bunjyo/jishyu/2009/aff14/s_img/e1.jpg">
+
+---
 
 e-2 山口勝弘　Eat　1972年／約2分
 
+<img src="http://www.aac.pref.aichi.jp/bunjyo/jishyu/2009/aff14/s_img/e2.jpg">
+
+---
+
 [e-3 マーサ・ロスラー　キッチンの記号論　1975年／約6分](http://www.ubu.com/film/rosler_semiotics.html)
+
+<img src="http://www.aac.pref.aichi.jp/bunjyo/jishyu/2009/aff14/s_img/e3.jpg">
+
+---
 
 e-4 今井祝雄　ビデオ・パフォーマンス1978～1983　1978-83年／約16分
 
+<img src="http://www.aac.pref.aichi.jp/bunjyo/jishyu/2009/aff14/s_img/e4.jpg">
+
+---
+
 e-5 デニス・オッペンハイム　アスペン・プロジェクト／圧縮－シダ（顔）　1970年／約5分
+
+<img src="http://www.aac.pref.aichi.jp/bunjyo/jishyu/2009/aff14/s_img/e5.jpg">
+
+---
 
 [e-6 ウィリアム・ウェグマン　作品選集１　1970-72年／約8分（抜粋）](http://www.ubu.com/film/wegman_selected.html)
 
+<img src="http://www.aac.pref.aichi.jp/bunjyo/jishyu/2009/aff14/s_img/e6.jpg">
+
+---
+
 [e-7 ジョン・バルデッサリ　アートの作法：葉巻辞典　1973年／約6分（抜粋）](http://www.ubu.com/film/baldessari_art.html)
+
+<img src="http://www.aac.pref.aichi.jp/bunjyo/jishyu/2009/aff14/s_img/e7.jpg">
+
+---
 
 e-8 小林はくどう　ラプス・コミュニケーション　1972年（1980年再制作）／約16分
 
+
+<img src="http://www.aac.pref.aichi.jp/bunjyo/jishyu/2009/aff14/s_img/e8.jpg">
+
+---
 
 ## fプログラム：ビデオと身体　8作品、約63分
 
 パフォーマンスの記録に活用されたビデオ。それは単なる記録を超え、時間的・空間的・造形的な加工・操作によって、パフォーマーの身体表現を拡張・純化させていく。 
 
+---
+
 f-1 ヴィト・アコンチ　粉／息　1970年／約3分
+
+<img src="http://www.aac.pref.aichi.jp/bunjyo/jishyu/2009/aff14/s_img/f1.jpg">
+
+---
 
 [f-2 ポール・マッカーシー　黒と白のテープ　1970-75年／約5分（抜粋）](http://www.ubu.com/film/mccarthy_black.html)
 
+<img src="http://www.aac.pref.aichi.jp/bunjyo/jishyu/2009/aff14/s_img/f2.jpg">
+
+---
+
 f-3 村岡三郎＋川口龍夫＋植松奎二　映像の映像－見ること　1973年／約13分
+
+<img src="http://www.aac.pref.aichi.jp/bunjyo/jishyu/2009/aff14/s_img/f3.jpg">
+
+---
 
 f-4 ジョーン・ジョナス　オーガニックハニーの垂直回転　1973-99年／約15分
 
+<img src="http://www.aac.pref.aichi.jp/bunjyo/jishyu/2009/aff14/s_img/f4.jpg">
+
+---
+
 f-5 出光真子　おんなのさくひん　1973年／約11分
+
+<img src="http://www.aac.pref.aichi.jp/bunjyo/jishyu/2009/aff14/s_img/f5.jpg">
+
+---
 
 [f-6 ブルース・ナウマン　ピンチネック　1968年／約2分](http://www.ubu.com/film/nauman_pinch.html)
 
+<img src="http://www.aac.pref.aichi.jp/bunjyo/jishyu/2009/aff14/s_img/f6.jpg">
+
+---
+
 f-7 アンテ・ボザニッチ　アイ・アム・ザ・ライト　1976年／約4分
 
+<img src="http://www.aac.pref.aichi.jp/bunjyo/jishyu/2009/aff14/s_img/f7.jpg">
+
+---
+
 f-8 和田守弘　認知構造・表述　1975年／約10分（抜粋）
+
+<img src="http://www.aac.pref.aichi.jp/bunjyo/jishyu/2009/aff14/s_img/f8.jpg">
+
+---
+
 
 
