@@ -1,3 +1,4 @@
+* ※踏んでも特に害はありません
 * ちょっと想像が行き過ぎたかも・・・？
 * ?utm_source=feedburner&utm_medium=feed
 * B! http://youpy.jottit.com/
