@@ -1,3 +1,4 @@
+* repl=Read-eval-print loop
 * swdyh=サワディーカ
 * RT=つぶやき頂戴します
 * バッドトリップにスリップin the サゲ=著しく気分が落ち込んだ
