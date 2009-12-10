@@ -1,3 +1,4 @@
+* 肌がカサカサする。あと荒れてる
 * 左足の小指がしびれてる
 * 汗かいて、おなかすいて、左足が冷たい
 * <img src="http://image.blog.livedoor.jp/nikonikoblog/imgs/b/8/b8b45923.jpg" />
