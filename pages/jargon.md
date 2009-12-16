@@ -1,3 +1,4 @@
+* PA=Public Address
 * 先生=さきなま
 * 紅茶=大麻
 * repl=Read-eval-print loop
