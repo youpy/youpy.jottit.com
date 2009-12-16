@@ -3,4 +3,5 @@
 充分に注意して、少なくとも自転車を止めてから操作してください。
 
 <img src="http://media.tumblr.com/7Y1J48dAJhn1d40q7S5Uw6z3o1_500.png" />
+<img src="http://22.media.tumblr.com/tumblr_kt9zfihCQK1qa2fy3o1_400.jpg" />
 
