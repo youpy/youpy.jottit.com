@@ -1,3 +1,4 @@
+* <img src="https://www.dropbox.com/static/images/emails/sharebox.jpg" />
 * 肌がカサカサする。あと荒れてる
 * 左足の小指がしびれてる
 * 汗かいて、おなかすいて、左足が冷たい
