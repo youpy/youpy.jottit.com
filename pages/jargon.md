@@ -1,3 +1,4 @@
+* Dãm-Funk=でいむふぁんく
 * 写メ=写真
 * PA=Public Address
 * 先生=さきなま
