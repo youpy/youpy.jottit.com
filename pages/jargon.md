@@ -1,3 +1,4 @@
+* ノコ=ノース・コリア
 * Dãm-Funk=でいむふぁんく
 * 写メ=写真
 * PA=Public Address
