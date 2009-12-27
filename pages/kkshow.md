@@ -1,3 +1,4 @@
+<img src="http://blog.wfmu.org/.a/6a00d83451c29169e20120a77f1f34970b-500wi" />
 <img src="http://s3-2.kiva.org/img/w800/427697.jpg" />
 <img src="http://2.media.tumblr.com/tumblr_ktxkpmT5ac1qz6d1qo1_500.jpg" />
 <img src="http://20.media.tumblr.com/tumblr_ksy31jn9s81qz4c38o1_500.jpg" />
