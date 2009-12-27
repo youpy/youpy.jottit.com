@@ -1,6 +1,5 @@
 * <font color="deeppink">サエコのバカバカッ</font>
 
-<img src="http://1.bp.blogspot.com/_wtPFpfiRE3g/SyXgNCn1GHI/AAAAAAAAAa8/TWJ4tiIijDw/s1600-h/500x_papier-mache-pikachu.jpg" />
 <img src="http://pictures.share-image.com/shareimagebig/2009/142/12430376601331987760.jpg" />
 <img src="http://18.media.tumblr.com/tumblr_ksp2slNVrh1qz5on3o1_500.jpg" />
 <img src="http://12.media.tumblr.com/tumblr_ks31fl6F031qzs6vdo1_400.jpg" />
