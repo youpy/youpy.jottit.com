@@ -1,3 +1,4 @@
+* 武蔵
 * 【重い】
 * ＜以下ちょっとネタバレ＞
 * Currently Browsing: 
