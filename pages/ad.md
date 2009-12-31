@@ -1,3 +1,4 @@
+<img src="http://helpmysql.org/fwk/ml/10002555" />
 <img src="http://content.yieldmanager.edgesuite.net/atoms/3a/dc/98/f6/3adc98f6e24d9728f8e41db7993a9fed.jpg">
 <img src="http://www.kensakuyo.com/img/img03.jpg" />
 <img src="http://x5.goo.ne.jp/banner5/20091006/091007_oshiete_newslim_2.jpg" />
