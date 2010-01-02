@@ -1,3 +1,3 @@
-<img src="http://16.media.tumblr.com/tumblr_ksslji0BID1qz4c38o1_500.png">
+<img src="http://farm3.static.flickr.com/2764/4225121049_79f33920d5.jpg">
 
 
