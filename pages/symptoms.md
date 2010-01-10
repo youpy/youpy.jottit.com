@@ -1,4 +1,5 @@
-* ![s](http://image.movapic.com/pic/m_200912301709374b3b0ac1d3e25.jpeg)
+* <img src="http://andronavi.com/wp-content/uploads/2010/01/voicetranslator015.png">
+* <img src="http://image.movapic.com/pic/m_200912301709374b3b0ac1d3e25.jpeg" />
 * <img src="https://www.dropbox.com/static/images/emails/sharebox.jpg" />
 * 肌がカサカサする。あと荒れてる
 * 左足の小指がしびれてる
