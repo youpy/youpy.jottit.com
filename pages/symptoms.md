@@ -1,3 +1,4 @@
+* 母が『血管若返りには塩分抑制だ。しょうゆの代わりに』と酢を置いていったが、酸っぱいのは苦手なので無理だった。妹には歯医者に拉致されそうになったが保険証を忘れたふりをして逃走。腹がつかえて甥の三輪車に乗れない私。
 * <img src="http://www.spiritsurfers.net/monastery/wp-content/uploads/destroyinursoul.jpg" />
 * <img src="http://farm3.static.flickr.com/2781/4265166167_cdf8fb6521_o.jpg" />
 * <img src="http://farm5.static.flickr.com/4025/4265166125_10c884eed0_o.jpg" />
