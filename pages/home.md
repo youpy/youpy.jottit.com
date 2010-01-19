@@ -1,6 +1,6 @@
 <center>
 <img src="http://bit.ly/4E6Eie" />
-<table width="100%"><tr><td align="cnter">
+<table width="100%"><tr><td align="center">
 <form action="http://www.google.com/search">
 <input name="q" size="55"><br>
 <input type="submit" value="Search" name="btnG">
