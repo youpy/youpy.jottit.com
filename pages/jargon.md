@@ -1,3 +1,4 @@
+* YouTube=21世紀のドル箱
 * 和久井映見=地球上に住む人類で、最もきれいな女性
 * aiko=恋愛ジャンキー
 * XXJ=XUL＋XPCOM＋JavaScript
