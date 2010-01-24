@@ -1,3 +1,5 @@
+<img src="http://27.media.tumblr.com/tumblr_kwqib6KAOn1qzovfso1_500.jpg" />
+
 * <font color="deeppink">サエコのバカバカッ</font>
 
 <img src="http://15.media.tumblr.com/tumblr_kwdtbl9Ikb1qz9enjo1_500.jpg" />
