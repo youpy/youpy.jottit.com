@@ -1,2 +1,2 @@
-<img src="http://dummyimage.com/500x500" />
+<img src="http://dummyimage.com/640x480" />
 
