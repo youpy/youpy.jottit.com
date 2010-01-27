@@ -1,3 +1,4 @@
+* Twitter=Tumblr
 * Thousand cranes=千羽鶴
 * 付き合いUST=hey!したものの、大して聴いていないUSTREAM
 * YouTube=21世紀のドル箱
