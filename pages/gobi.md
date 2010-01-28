@@ -1,3 +1,4 @@
+* なるはやでよろしくお願いします。
 * この記事をTwitterに投稿する
 * #follwmeJP
 * <この記事をRetweet！>
