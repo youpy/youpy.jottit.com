@@ -1,3 +1,4 @@
+* DT=童貞
 * Twitter=Tumblr
 * Thousand cranes=千羽鶴
 * 付き合いUST=hey!したものの、大して聴いていないUSTREAM
