@@ -1,3 +1,4 @@
+* Vampire Weekend=週末に昼夜逆転すること
 * 〇〇△=〇〇さんかっけー
 * DT=童貞
 * Twitter=Tumblr
