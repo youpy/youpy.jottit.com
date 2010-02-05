@@ -1,3 +1,4 @@
+<img src="http://29.media.tumblr.com/tumblr_kxbzr6KaF11qzcdbeo1_500.jpg" />
 <img src="http://27.media.tumblr.com/tumblr_kwqib6KAOn1qzovfso1_500.jpg" />
 
 * <font color="deeppink">サエコのバカバカッ</font>
