@@ -1,3 +1,4 @@
+* 密林=Amazon
 * otsune=日本のインターネットの中の神
 * Vampire Weekend=週末に昼夜逆転すること
 * 〇〇△=〇〇さんかっけー
