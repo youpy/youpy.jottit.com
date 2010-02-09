@@ -1,3 +1,4 @@
+* http://bit.ly/ddPvj9
 * submit your ex
 * 無料サンプル動画はこちら
 * (←話聞いてない)
