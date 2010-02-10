@@ -1,3 +1,4 @@
+* ★
 * ――『ワイアード』誌1996年2月号
 * RT @appbank この記事RTした人抽選で1名様に「あの商品32G版」プレゼントbyポケットベガス http://bit.ly/cx0db4
 * http://bit.ly/ddPvj9
