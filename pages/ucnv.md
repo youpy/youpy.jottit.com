@@ -1,3 +1,4 @@
+<img src="http://journal.mycom.co.jp/news/2010/02/15/040/images/001l.jpg" />
 <img src ="http://image.blog.livedoor.jp/hirobillyssk/imgs/7/5/75b0ed03.jpg">
 <img src="http://lh5.ggpht.com/_tyjzVpdXBt4/SHFCkmllVFI/AAAAAAAAB0E/XRrEj1Mg_xE/DSCF3609.jpg">
 <img src="http://s3-1.kiva.org/img/w800/465126.jpg" />
