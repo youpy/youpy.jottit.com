@@ -1,3 +1,4 @@
+* <img src="http://www.jasrac.or.jp/park/whats/img/2_1/t006_r1_c2.gif" />
 * <img src="http://gyazo.com/40ef189e34082c5cc6fc0ec76d383f32.png" />
 * 母が『血管若返りには塩分抑制だ。しょうゆの代わりに』と酢を置いていったが、酸っぱいのは苦手なので無理だった。妹には歯医者に拉致されそうになったが保険証を忘れたふりをして逃走。腹がつかえて甥の三輪車に乗れない私。
 * <img src="http://www.spiritsurfers.net/monastery/wp-content/uploads/destroyinursoul.jpg" />
