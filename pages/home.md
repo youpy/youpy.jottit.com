@@ -1,2 +1,2 @@
-<img src="http://mainichi.jp/image/article/tweetthis.gif">
+<img src="http://stat100.ameba.jp/p_skin/official_121/img/main_bg.gif">
 
