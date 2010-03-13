@@ -1,4 +1,4 @@
-* - photo at twitxr.com
+* \- photo at twitxr.com
 * P.S. 遅ればせながら Twitter はじめました。
 * Continue Reading →
 * →　6.エドモンド本田「ふん！」＆「どすこい！（タメ押し）」に変更可能。
