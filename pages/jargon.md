@@ -1,3 +1,4 @@
+* K=韓国
 * thank you=sorry
 * NPAPI=エヌパピ
 * 借金=頑張った人の証
