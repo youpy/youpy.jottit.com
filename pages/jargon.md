@@ -1,3 +1,4 @@
+* 夏帆ちゃん=宇宙で一番可愛い天使
 * K=韓国
 * thank you=sorry
 * NPAPI=エヌパピ
