@@ -1,3 +1,4 @@
+<img src="http://www.kiva.org/img/w800/492021.jpg">
 <img src="http://www.kaishasetsuritsu.biz/images/top/main2.jpg">
 
 どんな場所で合っても、どんな状況であっても、ノートＰＣを操作する事はいいと思いますが
