@@ -1,3 +1,4 @@
+* Life is beautiful
 * （吸いこまれながら）
 * \- photo at twitxr.com
 * P.S. 遅ればせながら Twitter はじめました。
