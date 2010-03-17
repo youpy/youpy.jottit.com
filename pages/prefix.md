@@ -1,3 +1,4 @@
+* 鬼才
 * 私はこれ一人でやってる↓
 * 現金ざくざく！
 * the artist formerly known as 
