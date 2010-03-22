@@ -1,2 +1,2 @@
-<img src="http://clients1.google.com/generate_204" />
+<img src="http://gyazo.com/202987796bce6887d46dcc7bdac938cf.png" />
 
