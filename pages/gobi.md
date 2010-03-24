@@ -1,3 +1,4 @@
+* マナーを守ってほしい｡
 * Life is beautiful
 * （吸いこまれながら）
 * \- photo at twitxr.com
