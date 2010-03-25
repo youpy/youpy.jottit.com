@@ -1,3 +1,7 @@
+- 「マンダラをじーっと眺めてにこにこしてます♪
+　これがわたしなのね〜と思いながら。
+　いつか、こんなきれいな花のような翼で、自由に飛んでみたいな。」
+
 <img src="http://imgk-a.dena.ne.jp/exk2/20081011/118/131875784_1.jpg">
 <img src="http://xxx1990.tumblr.com/photo/1280/404377807/1/tumblr_ky8bsv5Aup1qzsllt" />
 
