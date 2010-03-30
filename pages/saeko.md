@@ -1,3 +1,4 @@
+* <img src="http://mrmt.tumblr.com/photo/1280/481621388/1/tumblr_l01ntg3u4p1qz4c38" />
 * <img src="http://26.media.tumblr.com/tumblr_l02r7acS0R1qz50m0o1_500.jpg" />
 
 - 「マンダラをじーっと眺めてにこにこしてます♪
