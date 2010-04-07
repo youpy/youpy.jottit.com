@@ -1,3 +1,4 @@
+* CD=コーデ
 * RDB=[ラーメンデータベース](http://ramendb.supleks.jp/)
 * XPathの妖精=drry
 * ドンファン=男性器
