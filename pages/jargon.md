@@ -1,3 +1,4 @@
+* iPad=あの板きれ
 * CD=コーデ
 * RDB=[ラーメンデータベース](http://ramendb.supleks.jp/)
 * XPathの妖精=drry
