@@ -1,3 +1,4 @@
+* NEW!
 * #followmeJP #followme #sougofollow #followdaibosyu
 * (象さんのポット)
 * （カード番号を登録すれば金を払わなくても読める）
