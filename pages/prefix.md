@@ -1,3 +1,4 @@
+* (I am a high school student in Japan. My English  may be wrong. Sorry... )
 * モイ！
 * これ、すでに有名ですかね・・・？
 * エイプリルフールではありません、
