@@ -1,3 +1,5 @@
+* フバい=損した気分になる
+* cxx=プークスクス
 * iPad=あの板きれ
 * CD=コーデ
 * RDB=[ラーメンデータベース](http://ramendb.supleks.jp/)
