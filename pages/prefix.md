@@ -1,3 +1,4 @@
+* このコメントはスパムとして報告されています
 * ゲーテ「
 * http://fuba.moaningnerds.org/unicodemoticon/?
 * ホップ！　ステップ！
