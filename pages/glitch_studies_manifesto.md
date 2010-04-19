@@ -7,7 +7,7 @@
 # 4. グリッチを革新の外骨格とし、崩壊、破裂、破損にカタルシスを見いだせ。
 
 
-<http://rosa-menkman.blogspot.com/search/label/GlitchStudiesManifesto>
+<http://rosa-menkman.blogspot.com/search/label/GlitchStudiesManifesto><a href="http://northeastlegal.spaces.live.com/blog/">Northeast Law Blog</a> 
 
 ----
 
@@ -34,7 +34,7 @@
 
 <span style="color: rgb(51, 255, 51);">>>次に何をするんでしょう？すぐにでも手にかけて主機能を解除したいような新しい技術はありますか。</span>
 
-私は、セルロイドフィルムの粒子から、ブラウン管の磁気的な歪みと走査線へと移行してきました。画面の焼き付きを面白いと思ったり、死んだピクセルを指で押したりしたし、今や割れたLCDの画面を使ったパフォーマンスアートを見たりする。計画は立てません。ただ技術の渦に乗ってゆくだけです。でもそうですね、次はたぶんフロッピーかな。
+私は、セルロイドフィルムの粒子から、ブラウン管の磁気的な歪みと走査線へと移行してきました。画面の焼き付きを面白いと思ったり、死んだピクセルを指で押したりしたし、今や割れたLCDの画面を使ったパフォーマンスアートを見たりする。計画は立てません。ただ技術の渦に乗ってゆくだけです。でもそうですね、次はたぶんフロッピーかしら。
 
 http://rosa-menkman.blogspot.com/2010/02/interview-for-klik-magazine-slovenian.html
 
