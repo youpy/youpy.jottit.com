@@ -1,8 +1,9 @@
+* <img src="http://www.lifehacker.jp/2010/04/19/100419_03bandaid.jpg"> 
 * <img src="http://www.asahi.com/national/update/0416/images/TKY201004150526.jpg" />
 * http://www.geocities.co.jp/HeartLand-Hanamizuki/6909/saiko/kenkou.au
 * <img src="http://www.mhlw.go.jp/topics/bukyoku/kenkou/seikatu/images/top05.gif" />
 <img src="http://www.mhlw.go.jp/topics/bukyoku/kenkou/seikatu/images/top06.gif" />
-<img src="http://www.mhlw.go.jp/topics/bukyoku/kenkou/seikatu/images/top07.gif" />
+<img src="http://www.mhlw.go.jp/topics/bukyoku/kenkou/seikatu/images/top07.gif"  />
 <img src="http://www.mhlw.go.jp/topics/bukyoku/kenkou/seikatu/images/top08.gif" />
 <img src="http://www.mhlw.go.jp/topics/bukyoku/kenkou/seikatu/images/top09.gif" />
 <img src="http://www.mhlw.go.jp/topics/bukyoku/kenkou/seikatu/images/top10.gif" />
