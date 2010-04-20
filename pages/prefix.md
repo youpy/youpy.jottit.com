@@ -1,3 +1,4 @@
+* www.example.com/@example
 * このコメントはスパムとして報告されています
 * ゲーテ「
 * http://fuba.moaningnerds.org/unicodemoticon/?
