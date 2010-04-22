@@ -1,3 +1,4 @@
+* TTYS=Talk To You Soon
 * 子供=作品
 * 膜拝=崇拝者にひれ伏す様子
 * nitro=ナイトロ
