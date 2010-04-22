@@ -1,3 +1,4 @@
+* (ちょっと不謹慎)
 * http://www.tadanoriyokoo.com/
 * デブ
 * って何^^;　命が惜しくないのか…
