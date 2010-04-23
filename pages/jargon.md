@@ -1,3 +1,5 @@
+* 機関銃=情報
+* 竹やり=無知
 * BFF=親友
 * TTYN=Talk To You Never
 * TTYS=Talk To You Soon
