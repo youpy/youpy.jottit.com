@@ -1,3 +1,4 @@
+* BFF=親友
 * TTYN=Talk To You Never
 * TTYS=Talk To You Soon
 * 子供=作品
