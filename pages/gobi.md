@@ -1,3 +1,4 @@
+* （待とう）
 * (ちょっと不謹慎)
 * http://www.tadanoriyokoo.com/
 * デブ
