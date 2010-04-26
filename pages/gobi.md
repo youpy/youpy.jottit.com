@@ -1,3 +1,4 @@
+* （このあとfubaによる面白発言炸裂）
 * （待とう）
 * (ちょっと不謹慎)
 * http://www.tadanoriyokoo.com/
