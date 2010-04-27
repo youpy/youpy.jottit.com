@@ -1,3 +1,4 @@
+* <img src="http://memai-clinic.jp/ryousei/img/kt_ryousei.gif" />
 * 寝てるだけでどんどん体調が悪化してきてる。
 * <img src="http://www.lifehacker.jp/2010/04/19/100419_03bandaid.jpg"> 
 * <img src="http://www.asahi.com/national/update/0416/images/TKY201004150526.jpg" />
