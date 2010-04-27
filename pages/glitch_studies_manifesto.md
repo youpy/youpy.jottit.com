@@ -7,7 +7,7 @@
 # 4. グリッチを革新の外骨格とし、崩壊、破裂、破損にカタルシスを見いだせ。
 
 
-<http://rosa-menkman.blogspot.com/search/label/GlitchStudiesManifesto><a href="http://northeastlegal.spaces.live.com/blog/">Northeast Law Blog</a> 
+<http://rosa-menkman.blogspot.com/search/label/GlitchStudiesManifesto> <a href="http://northeastlegal.spaces.live.com/blog/">Northeast Law Blog</a> 
 
 ----
 
