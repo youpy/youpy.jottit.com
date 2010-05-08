@@ -1,3 +1,4 @@
+* <img src="http://c0378172.cdn.cloudfiles.rackspacecloud.com/better-marriage-blanket.jpg" />
 * <img src="http://memai-clinic.jp/ryousei/img/kt_ryousei.gif" />
 * 寝てるだけでどんどん体調が悪化してきてる。
 * <img src="http://www.lifehacker.jp/2010/04/19/100419_03bandaid.jpg"> 
