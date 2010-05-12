@@ -116,6 +116,8 @@
 * お金を払ったことを忘れてしまう
 * システムインテグレーターA社のスーパーSE。モデル事務所のスカウトを断って、IT業界に進んだツワモノ<img src="http://bradysales.org/afurby.jpg" height="100px" />
 * と言うよりも、ヘヴィメタルに出会う前からヘヴィメタルを知っていたんです。分かってもらえるかわかりませんが、物心ついた頃、つまり２〜３歳とかそれぐらいからですけど、頭の奥の方で音楽がいつも鳴っていたんです。 
+<ul class="tl-tweets">
+<li>「カオス」という言葉を覚えたのはX JAPAN経由で小5のときです posted at <a href="http://twitter.com/saeko/status/13826611540" target="_blank">11:48:02</a></li></ul>
 
 <img src="http://media.tumblr.com/vicErPwd7ie6iayfLkf2zFrGo1_500.jpg" />
 <img src="http://ec2.images-amazon.com/images/I/318W63F5FWL._SL500_AA280_.jpg">
