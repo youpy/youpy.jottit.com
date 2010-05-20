@@ -1,4 +1,3 @@
-<img src="https://imatsubu.jp/images/skina_bg_top.gif" />
-<a href="http://www.kitchencabinetkings.com" title="kitchen cabinets" style="font-size:1px;">kitchen cabinets</a>
+<img src="http://image.rakuten.co.jp/nagasaki-kasutera/cabinet/20070618_01/a02a.gif" />
 
 
