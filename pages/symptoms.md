@@ -1,3 +1,4 @@
+* <img src="http://27.media.tumblr.com/tumblr_l32wlqnT8W1qz8tlso1_500.jpg" />
 * 家の前で誰か死んでた
 * <img src="http://www.nintendo.co.jp/ds/dsiware/kenj/img/index/img02_2nd.gif" />
 * <img src="http://c0378172.cdn.cloudfiles.rackspacecloud.com/better-marriage-blanket.jpg" />
