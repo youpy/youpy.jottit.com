@@ -1,3 +1,4 @@
+<img src="http://www.amypink.com/wp-content/themes/liebling/scripts/timthumb.php?src=http://www.amypink.com/wp-content/uploads/2010/04/pokemon-group.jpg&w=620&h=454&zc=1&q=100" />
 <img src="http://30.media.tumblr.com/tumblr_kwyrxl87z61qz5on3o1_400.jpg" />
 <img src="http://25.media.tumblr.com/tumblr_kwyrsmUd951qz5on3o1_400.jpg" />
 <img src="http://24.media.tumblr.com/tumblr_kwyrscilwE1qz5on3o1_400.jpg" />
