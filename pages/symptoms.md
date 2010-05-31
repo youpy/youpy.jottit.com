@@ -1,3 +1,4 @@
+* <img src="http://www.k-salad.com/life/seitai/img/022/05.gif" />
 * <img src="http://27.media.tumblr.com/tumblr_l32wlqnT8W1qz8tlso1_500.jpg" />
 * 家の前で誰か死んでた
 * <img src="http://www.nintendo.co.jp/ds/dsiware/kenj/img/index/img02_2nd.gif" />
