@@ -1,3 +1,4 @@
+<img src="http://www.club-god.com/koyachi_blog.gif">
 <img src="http://gyazo.com/6acf9facabae6512bc3de54897318a80.png">
 <img src="http://26.media.tumblr.com/tumblr_kxbrq6jked1qzaurpo1_400.jpg"/>
 <img src="http://www.aestheticsportfolio.com/pics/20091008154337rvlavc8q0vj8klfcvh0bqjckr1-1.png" />
