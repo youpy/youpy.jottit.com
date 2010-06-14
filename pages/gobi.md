@@ -1,3 +1,7 @@
+* プレイリストに加えさせてもらいます。
+* （単に売れない）
+* と、お客様よりお叱りをいただきました
+* Hotmail: Free, trusted and rich email service. Get it now.
 * （でも声はでかい）
 * 阿部和重
 * （白目）
