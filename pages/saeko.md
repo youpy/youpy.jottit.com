@@ -1,3 +1,4 @@
+<img src="http://25.media.tumblr.com/tumblr_l56pifjHZH1qz4g9eo1_500.jpg" />
 <img src="http://28.media.tumblr.com/tumblr_l56gz7hDbH1qz5or8o1_500.gif" />
 <img src="http://blog-imgs-29-origin.fc2.com/p/u/r/purichin/diamond_studded_guns_05.jpg" />
 <img src="http://farm5.static.flickr.com/4071/4712589050_9efc7dacd3.jpg" />
