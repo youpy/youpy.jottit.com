@@ -1,3 +1,5 @@
+<blockquote>こめかみ付近の髪の毛が釣り針のようにクリンと前に曲がっているため髪型が魔法使いじみてて嫌だがさっきから伸ばしてるのに一向にまっすぐにならない</blockquote>
+
 <img src="http://27.media.tumblr.com/tumblr_l1e364Xc0e1qzchk6o1_500.jpg" />
 <img src="http://www.myconfinedspace.com/wp-content/uploads/2010/04/nasty-hair.jpg" />
 <img src="http://25.media.tumblr.com/tumblr_l0o5wkdgm81qz4c38o1_500.jpg" />
