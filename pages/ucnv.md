@@ -1,3 +1,4 @@
+<img src="http://27.media.tumblr.com/tumblr_l65yqozwOz1qz4g9eo1_500.jpg" />
 <img src="http://www.metal-archives.com/images/2/1/5/6/215606.jpg" />
 <img src="http://journal.mycom.co.jp/news/2010/02/15/040/images/001l.jpg" />
 <img src ="http://image.blog.livedoor.jp/hirobillyssk/imgs/7/5/75b0ed03.jpg">
