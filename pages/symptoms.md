@@ -1,3 +1,4 @@
+* <img src="http://seiritsuu-navi.com/care/images/condition_img.gif" />
 * <img src="http://imgc.appbank.net/c/wp-content/uploads/2010/07/bijindou1.jpg" />
 * <img src="http://a1.phobos.apple.com/us/r30/Purple/5a/72/03/mzl.khiffymy.320x480-75.jpg" />
 * <img src="http://a1.phobos.apple.com/us/r1000/041/Purple/df/60/f4/mzl.rmrzdqkb.480x480-75.jpg" />
