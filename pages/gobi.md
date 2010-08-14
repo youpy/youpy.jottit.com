@@ -1,3 +1,4 @@
+* http://t.co/9BRiGYY
 * →便利！
 * #itdajare
 * →放火寸前
