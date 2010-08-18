@@ -1,3 +1,4 @@
+<img src="http://yoga-journal.jp/contents/pose/upfiles/entryimage/astav3.jpg">
 <img src="http://livedoor.2.blogimg.jp/cosplets/imgs/c/0/c086dbc7.jpg">
 <img src="http://27.media.tumblr.com/tumblr_l65yqozwOz1qz4g9eo1_500.jpg" />
 <img src="http://www.tntbandrocks.com/music018.gif">
