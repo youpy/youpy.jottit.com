@@ -1,3 +1,4 @@
+* トイレのそうじをすると美人になる
 * <img src="http://29.media.tumblr.com/tumblr_l61ypwVwkC1qz6d1qo1_500.jpg" />
 * ダチョウは走りながら体力を回復する
 * 六本木では女がイキまくっている
