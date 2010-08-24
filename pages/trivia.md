@@ -1,3 +1,4 @@
+* twitterで挨拶してると恋人ができる
 * 女の子に勉強を教えれば人口が減る
 * トイレのそうじをすると美人になる
 * <img src="http://29.media.tumblr.com/tumblr_l61ypwVwkC1qz6d1qo1_500.jpg" />
