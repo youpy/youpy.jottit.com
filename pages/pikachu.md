@@ -1,3 +1,4 @@
+<img src="http://dismagazine.com/uploads/2010/08/2_cld_large1.jpg" />
 <img src="http://farm5.static.flickr.com/4142/4891533500_e563711563_z.jpg" />
 
 <img src="http://www.amypink.com/wp-content/themes/liebling/scripts/timthumb.php?src=http://www.amypink.com/wp-content/uploads/2010/04/pokemon-group.jpg&w=620&h=454&zc=1&q=100" />
