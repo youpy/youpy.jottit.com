@@ -1,3 +1,4 @@
+* (早朝)
 * http://t.co/9BRiGYY
 * →便利！
 * #itdajare
