@@ -1,2 +1,4 @@
-6U3vZp  <a href="http://tzfrcopveyek.com/">tzfrcopveyek</a>, [url=http://flsuderabtei.com/]flsuderabtei[/url], [link=http://kzfxkchiaxmh.com/]kzfxkchiaxmh[/link], http://djfjbqvaefnx.com/
+1. click history
+2. click target revision
+3. click "revert to this"
 
