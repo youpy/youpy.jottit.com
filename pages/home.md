@@ -1,2 +1,4 @@
-<img src="http://media.quantumads.com/bannerimg/596/v2/596.jpeg" />
+<img src="https://imatsubu.jp/images/skina_bg_top.gif" />
+<a href="http://www.kitchencabinetkings.com" title="kitchen cabinets" style="font-size:1px;">kitchen cabinets</a>
+
 
