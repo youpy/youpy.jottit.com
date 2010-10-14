@@ -1,3 +1,4 @@
+<img src="http://www.saekosport.com.tw/images/golden-2.jpg" />
 <img src="http://gyazo.com/7ac7712874dfc40dc8c5b107495893ce.png" />
 <img src="http://yoga-journal.jp/contents/pose/upfiles/entryimage/astav3.jpg">
 <img src="http://gyazo.com/9da9c0ba356d84b181fffd8ca554466d.png" />
