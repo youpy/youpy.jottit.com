@@ -1,5 +1,3 @@
-<img src="http://www.fun.ac.jp/staff/_IMG_GALLERY_staff/staff_ph/hitoshimatsubara.jpg">
-
 <img src="http://www.kiva.org/img/w800/492021.jpg">
 <img src="http://www.kaishasetsuritsu.biz/images/top/main2.jpg">
 
