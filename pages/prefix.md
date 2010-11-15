@@ -1,3 +1,4 @@
+* http://chart.apis.google.com/chart?chst=d_text_outline&chld=FFCC33|200|h|FF0000|b|
 * エンジニア向けなので興味がない方はスルーな方向で！
 * 本日、保存した画像です。
 * @takapon_jp 
