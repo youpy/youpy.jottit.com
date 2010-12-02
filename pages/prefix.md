@@ -1,3 +1,4 @@
+* 何か持っていると言われ続けてきました。今日何を持っているのか確信しました・・・それは
 * 一日中インターネットしてた　
 * 「著作権保護コンテンツ」
 * http://chart.apis.google.com/chart?chst=d_text_outline&chld=FFCC33|200|h|FF0000|b|
