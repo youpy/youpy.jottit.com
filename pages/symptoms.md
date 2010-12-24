@@ -1,3 +1,18 @@
+* ぜんぶ枯れた
+* まきびし踏んだ
+* ドアとれた
+* いいこと思いついたのに特許取られてた
+* サドル盗まれた
+* 左右違う靴
+* 犬に逃げられた
+* 一匹も釣れない
+* 同じ巻買った
+* エクセル強制終了
+* ６時間寝過ごした
+* 犬がなつかない
+* 紙で手切った
+* ごはん落とした
+* パン焼きすぎた
 * <img src="http://gyazo.com/f61425ae9839602abcf7dfae978084a0.png" />
 * <img src="http://livedoor.2.blogimg.jp/chihhylove/imgs/4/e/4e25001f.jpg" />
 * <img src="http://29.media.tumblr.com/tumblr_l9pbp1uvcC1qz6qkqo1_400.jpg" />
