@@ -1,3 +1,4 @@
+* JavaScript=21世紀のC言語
 * 絶望=苦悩－意味
 * 無敵=EXTASY
 * S=塩
