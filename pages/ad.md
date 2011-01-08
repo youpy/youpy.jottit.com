@@ -1,3 +1,4 @@
+<img src="http://img2.groupon.jp/img/subscriptions/lp0005/button_arrow.gif" />
 <img src="http://googleads.g.doubleclick.net/pagead/imgad?id=CNKn7Z3M1bf2mwEQoAEYwgQyCBJgklunTqcA" />
 <img src="http://gyazo.com/362674ab11e9f1543320eb79121cfd10.png" />
 <img src="http://helpmysql.org/fwk/ml/10002555" />
