@@ -1,3 +1,4 @@
+* <img src="http://i.ytimg.com/vi/1REC8f_Q5HQ/hqdefault.jpg" />
 * ぜんぶ枯れた
 * まきびし踏んだ
 * ドアとれた
