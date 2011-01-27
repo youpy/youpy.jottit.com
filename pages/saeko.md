@@ -1,3 +1,4 @@
+<img src="http://www.iga-shop.com/casio/2010love/LOV-10B-4JR/LOV-10B-4JR.jpg">
 <img src="http://30.media.tumblr.com/tumblr_lb1hhkoluI1qz52pyo1_500.jpg" />
 <img src="http://27.media.tumblr.com/tumblr_lcmgldQJet1qzo302o1_500.jpg" />
 <img src="http://www.saekosport.com.tw/images/golden-2.jpg" />
