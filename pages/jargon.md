@@ -1,3 +1,4 @@
+* 和久井映見=美人
 * www=What a wonderful world
 * マイクロジャクソン=マイケルジャクソン
 * お湯=お茶
