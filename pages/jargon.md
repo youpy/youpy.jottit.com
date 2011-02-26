@@ -1,3 +1,4 @@
+* 基盤=本番行為
 * NINJA=日本版CIA
 * 和久井映見=美人
 * www=What a wonderful world
