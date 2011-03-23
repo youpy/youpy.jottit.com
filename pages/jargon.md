@@ -1,3 +1,4 @@
+* r4s=スパム報告
 * Zeus & Apollo=Hatchback
 * 無料=違法
 * ルーター=人間
