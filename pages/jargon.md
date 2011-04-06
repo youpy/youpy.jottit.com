@@ -1,7 +1,6 @@
 * 石=ロック
 * 巻=ロール
 * 津波てんでんこ=自分の責任で早く高台に逃げろ
-* DDIY=Don't Do It Yourself
 * r4s=スパム報告
 * Zeus & Apollo=Hatchback
 * 無料=違法
