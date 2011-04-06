@@ -1,3 +1,4 @@
+<img src="http://desmond.yfrog.com/Himg612/scaled.php?tn=0&server=612&filename=knisz.jpg&xsize=640&ysize=640">
 <img src="http://www.gree.co.jp/img/common/officer/photo_Tanaka.jpg">
 
 <img src="http://www.fun.ac.jp/staff/_IMG_GALLERY_staff/staff_ph/hitoshimatsubara.jpg">
