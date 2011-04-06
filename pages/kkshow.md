@@ -1,3 +1,5 @@
+<img src="http://livedoor.blogimg.jp/karapaia_zaeega/imgs/e/1/e1f19350.jpg">
+
 <blockquote>こめかみ付近の髪の毛が釣り針のようにクリンと前に曲がっているため髪型が魔法使いじみてて嫌だがさっきから伸ばしてるのに一向にまっすぐにならない</blockquote>
 
 <img src="http://27.media.tumblr.com/tumblr_l1e364Xc0e1qzchk6o1_500.jpg" />
