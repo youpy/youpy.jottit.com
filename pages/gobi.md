@@ -1,3 +1,4 @@
+* 続く→
 * Lite
 * Enjoy folks!
 * バボラァ！！
