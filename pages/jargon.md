@@ -1,3 +1,4 @@
+* NIMBY=Not In My Back Yard
 * 痩せるコツ=セックス
 * JavaScript=New Perl
 * 奨学金=借金
