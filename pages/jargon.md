@@ -1,3 +1,4 @@
+* JAPPAI=日本のおっぱい
 * Android=auの最新ケータイ
 * 加齢臭=加瀬亮
 * NIMBY=Not In My Back Yard
