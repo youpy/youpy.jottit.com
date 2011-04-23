@@ -1,3 +1,4 @@
+* サンクラ=soundcloud
 * 借金=コミュニケーション
 * JAPPAI=日本のおっぱい
 * Android=auの最新ケータイ
