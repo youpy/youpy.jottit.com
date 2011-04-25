@@ -1,2 +1,2 @@
-<img src="http://www.cataloghouse.co.jp/common/img/pop/btn_close_over.gif" />
+<a href="http://www.kitchencabinetkings.com" title="kitchen cabinets">kitchen cabinets</a>
 
