@@ -1,4 +1,5 @@
 <a href="http://www.cosplayshopper.com/" title="Cosplay">Cosplay</a>
+<img src="http://www.mcs-proguide.com/img/school1.jpg" />
 <img src="http://www.samurai.fm/rightrightright/rightrightright_profile.jpg" />
 <img src="http://1.bp.blogspot.com/_2j4oU6meCoY/St0EVLIlNoI/AAAAAAAAOXE/-22bxevprQc/s400/19aug14-big-ass-freak.jpg" />
 <img src="http://bohemianpunk.tumblr.com/photo/1280/153251912/1/QJ20MmQ0Yql2yr05CsdTBi7u" />
