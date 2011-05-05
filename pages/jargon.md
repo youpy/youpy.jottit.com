@@ -1,3 +1,4 @@
+* 芸術=爆発
 * 広絵 友光=クロエ モレッツ
 * JavaScript=現代版のBASIC
 * POWER PLAYER=仕事も遊びも両方夢中になれる人
