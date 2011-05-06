@@ -1,3 +1,4 @@
+* pseudo=ペドロサ
 * 芸術=爆発
 * 広絵 友光=クロエ モレッツ
 * JavaScript=現代版のBASIC
