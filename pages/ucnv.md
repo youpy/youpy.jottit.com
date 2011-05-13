@@ -10,6 +10,7 @@
 <img src="http://s3-1.kiva.org/img/w800/465126.jpg" />
 <img src="http://www.kiva.org/img/w800/438013.jpg" />
 <img src="http://gyazo.com/a53252b9424257565bb82d97a625e7f0.png" />
+<img src="http://www12.ocn.ne.jp/~vizon/MyPage/images/cm.diamond.jpg" />
 <img src="http://www.kiva.org/img/w800/417993.jpg" />
 <img src="http://farm3.static.flickr.com/2673/3947017922_7c5fa83f4e_o.gif" />
 <img src="http://www.milesteves.com/gallery/d/372-4/Robocop-72.jpg" />
