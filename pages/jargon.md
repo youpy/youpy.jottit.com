@@ -1,3 +1,4 @@
+* join=入社
 * リアタイ=リアルタイム
 * ダムフォン=フィーチャーフォン
 * GWT + HTML5=A web developers dream
