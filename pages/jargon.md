@@ -1,3 +1,4 @@
+* Tigercity=Games=Ford&Lopatin
 * ピク=ピクセル
 * ワケギ=玉ねぎ+長ネギ
 * 薬=おかず
