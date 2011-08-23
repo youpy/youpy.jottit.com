@@ -1,3 +1,4 @@
+* Sent from my iPhone
 * (演者微笑)
 * (会場総立)
 * on Twitpic
