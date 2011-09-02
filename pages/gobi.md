@@ -1,3 +1,4 @@
+* \*FREE DOWNLOAD\*
 * mixiページ
 * 何をいまさら・・・という声が聞こえてきそうですが（汗）
 * Sent from my iPhone
