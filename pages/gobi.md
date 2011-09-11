@@ -1,3 +1,4 @@
+* Sent from my iPad
 * \*FREE DOWNLOAD\*
 * mixiページ
 * 何をいまさら・・・という声が聞こえてきそうですが（汗）
