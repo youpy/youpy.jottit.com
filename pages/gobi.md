@@ -1,3 +1,4 @@
+* (████████)
 * Sent from my iPad
 * \*FREE DOWNLOAD\*
 * mixiページ
