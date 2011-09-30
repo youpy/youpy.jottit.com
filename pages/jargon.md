@@ -1,3 +1,4 @@
+* FUBAR=fucked up beyond all recognition.大失敗。
 * 金ない=欲しいからください
 * パスワード=kogaidan
 * sakamoo=終わったコンテンツ
