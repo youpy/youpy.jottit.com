@@ -1,3 +1,4 @@
+* リピーター=セフレ
 * Node.js=ソフトウェアの癌
 * FUBAR=fucked up beyond all recognition.大失敗。
 * 金ない=欲しいからください
