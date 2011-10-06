@@ -1,2 +1,2 @@
-YES [citation needed]
+YES <sup>*[[http://stevejobsisalive.blogspot.com/]]</sup>
 
