@@ -1,3 +1,4 @@
+* shut the fuck up and
 * ★
 * 初期の
 * 脱
