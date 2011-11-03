@@ -1,3 +1,4 @@
+<img src="http://www.venturenow.jp/news/111027_milog_01.jpg" />
 <img src="http://www.infocation.jp/15/images/txt.gif" />
 <img src="http://img2.groupon.jp/img/subscriptions/lp0005/button_arrow.gif" />
 <img src="http://googleads.g.doubleclick.net/pagead/imgad?id=CNKn7Z3M1bf2mwEQoAEYwgQyCBJgklunTqcA" />
