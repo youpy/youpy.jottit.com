@@ -1,3 +1,4 @@
+<img src="https://lh3.googleusercontent.com/-WNB_im6uktk/TsOuK2zAv2I/AAAAAAAAA8Q/0uKAZLZc4gU/w90/anime_nobrain.gif" />
 <img src="http://www.venturenow.jp/news/111027_milog_01.jpg" />
 <img src="http://www.infocation.jp/15/images/txt.gif" />
 <img src="http://img2.groupon.jp/img/subscriptions/lp0005/button_arrow.gif" />
