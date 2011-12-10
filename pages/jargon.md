@@ -1,3 +1,13 @@
+* CD9=code 9 parents are around（親が近くにいるよ）
+* P911=parent alert（親注意！）
+* PIR=parent in room（親が部屋にいるよ）
+* 8=oral sex (or ate)（オーラルセックス）
+* GYPO=get your pants off（パンツ脱いで）
+* GNRN=get naked right now（今すぐ裸になって）
+* RUH=are you horny（エッチな気分？）
+* CU46=see you for sex（セックスしたいから会おう）
+* IWSN=I want sex now（今すぐヤリたい）
+* GNOC=get naked on camera (webcam)（ウェブカメラの前で裸になって）
 * 明日やろう=馬鹿野郎 
 * イジメ=まず紙をクシャクシャに踏み潰し徹底的に滅茶苦茶にしなさい→さて紙を広げると？→そうだね、傷だらけ…汚れてしまった…もう治せない…
 * ミセス・ワタナベ=個人投資家の総称
