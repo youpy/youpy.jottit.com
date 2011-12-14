@@ -1,3 +1,4 @@
+* はてな=地獄
 * CD9=code 9 parents are around（親が近くにいるよ）
 * P911=parent alert（親注意！）
 * PIR=parent in room（親が部屋にいるよ）
