@@ -1,3 +1,4 @@
+* 女子会=最後の晩餐
 * はてな=地獄
 * CD9=code 9 parents are around（親が近くにいるよ）
 * P911=parent alert（親注意！）
