@@ -1,6 +1,3 @@
+<a href="http://www.kitchencabinetkings.com" title="Discount kitchen cabinets">Discount kitchen cabinets</a>
 
-<a href="http://www.rtaflooring.com">Engineered wood floors</a>
-
-
-<a href="http://www.rtaflooring.com">laminate wood flooring</a>
 
