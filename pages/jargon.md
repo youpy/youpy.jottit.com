@@ -1,3 +1,6 @@
+* シェア=Facebookの自分の投稿欄に転載し・紹介するアクション
+* facebook=誕生日を祝う場所
+* twitter=人の死を惜しむ場所
 * Opera 使用者=異常者
 * サービス停止=display:none
 * 絵師様=親御さん
