@@ -1,3 +1,4 @@
+* NINJA=No Income，No Job，No Asset
 * シェア=Facebookの自分の投稿欄に転載し・紹介するアクション
 * facebook=誕生日を祝う場所
 * twitter=人の死を惜しむ場所
