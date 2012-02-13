@@ -1,3 +1,4 @@
+* クックパッド=音楽
 * 安保理=弾んでいる物体(赤い)
 * NINJA=No Income，No Job，No Asset
 * シェア=Facebookの自分の投稿欄に転載し・紹介するアクション
