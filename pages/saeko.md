@@ -42,7 +42,6 @@
 <img src="http://3.bp.blogspot.com/_LbccUVbSRd8/S7NWh7pqtPI/AAAAAAAAGaA/muybrV8xCC0/s400/Angel+%283%29.JPG" />
 <img src="http://mrmt.tumblr.com/photo/1280/481621388/1/tumblr_l01ntg3u4p1qz4c38" />
 <img src="http://26.media.tumblr.com/tumblr_l02r7acS0R1qz50m0o1_500.jpg" />
-<a href="http://www.camouflageshopper.com/" title="Camouflage Clothing">Camouflage Clothing</a>
 
 - 「マンダラをじーっと眺めてにこにこしてます♪
 　これがわたしなのね〜と思いながら。
@@ -85,9 +84,6 @@
 <img src="http://www.web-elsereine.com/gif/p10_img_001.gif" width="100%">
 <img src="http://image.rakuten.co.jp/villdash/cabinet/00691850/img55559653.jpg" />
 <img src="http://gyazo.com/7e4973667119727d48f0ed3b7e8ac53e.png" />
-<a href="http://www.hellokittyjewelrystore.com/" titile="Hello Kitty Jewelry">Hello Kitty Jewelry</a>
-
-
 <img src="http://gyazo.com/47cb7de6cab92c06536566f8b97edfc4.png">
 <img src="http://bradysales.org/DOLL-2.jpg" width="100%"/>
 <img src="http://3.media.tumblr.com/dD3KtlSZxlxhwgubwqcTeLMro1_500.jpg" />
@@ -165,7 +161,6 @@
 <img src="http://www.sendai-arts.jp/admin/imgfile/20060407130726shohinPhoto_04.jpg"/>
 <img src="http://www.picamatic.com/show/2008/10/20/10/43/1217426_697x467.jpg"/>
 <img src="http://farm4.static.flickr.com/3039/2825009405_b2d18c01fa.jpg"/><img src="http://bradysales.org/DSC01560.JPG" /><img src="http://bradysales.org/DSC01561.JPG" /><br>
-<a href="http://www.nerfgunstore.com/" titile="nerf guns">nerf guns</a>
 <img src="http://bradysales.org/DSC01554.JPG" />
 <img src="http://img201.imagevenue.com/aAfkjfp01fo1i-7481/loc335/48265_20081006_02_41_123_335lo.jpg" >
 <img src="http://data.tumblr.com/IIfKfxArqiocj7hiZrM6idk3o1_500.jpg" />
