@@ -1,3 +1,4 @@
+* wanwan_kun
 * shisan_kun
 * ikisaki_kun
 * oshiete-kun
