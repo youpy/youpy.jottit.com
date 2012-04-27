@@ -15,6 +15,6 @@ youpy 最寄り駅改札らへん
 * suzukiiiiiiiiii(たぶん)
 * ucnv
 * ooooshiroooo
-
+* koyachi
 
 
