@@ -16,5 +16,5 @@ youpy 最寄り駅改札らへん
 * ucnv
 * ooooshiroooo
 * koyachi
-
+* qudam(遠隔参加)
 
