@@ -12,11 +12,11 @@ youpy 最寄り駅改札らへん
 
 * youpy
 * thirozumi
-* suzukiiiiiiiiii(たぶん)
+* suzukiiiiiiiiii(太純基金で参加の可能性有)
 * ucnv
 * ooooshiroooo
 * koyachi
 * qudam(遠隔参加)
 
-## 協賛
+## 協賛　太純
 
