@@ -1,3 +1,4 @@
+* アルゴ=アルゴリズム
 * Google+=田舎
 * ハンドアックスを投げる=please just kill yourself now.
 * 財布=お金のホテル
