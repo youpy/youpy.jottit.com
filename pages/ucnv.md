@@ -1,3 +1,4 @@
+<img src="http://www.kiva.org/img/w800/1067539.jpg" />
 <img src="http://gigazine.jp/img/2012/05/04/iphone-repair/gigaz46.jpg" />
 <img src="http://farm8.staticflickr.com/7054/6918146061_662846b291.jpg" />
 <img src="http://27.media.tumblr.com/tumblr_lrklvdmX1U1qz6d1qo1_500.jpg" />
