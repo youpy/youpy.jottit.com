@@ -1,3 +1,4 @@
+* FREE FOR A LIMITED TIME
 * はじめまして。Twitterでこの記事を知り、心を打たれたのでコメントさせてください。
 * 失礼を承知で一言。
 * -webkit-
