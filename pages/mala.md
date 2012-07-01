@@ -1,3 +1,4 @@
+<img src="http://www.asahicom.jp/digital_pr/article_images/TKY201201170679.jpg">
 <a href="http://www.cosplayshopper.com/" title="Cosplay">Cosplay</a>
 <img src="http://28.media.tumblr.com/tumblr_lkmdvhmbte1qz6rxuo1_500.jpg" />
 <img src="http://www.samurai.fm/rightrightright/rightrightright_profile.jpg" />
