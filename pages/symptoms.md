@@ -1,3 +1,4 @@
+* <img ssc="http://a5.mzstatic.com/us/r1000/067/Purple/v4/de/0b/83/de0b834a-5a6d-b285-6f29-0b4508c0e4ba/JVRTBTdUQeHHSTmRz4yAFg-temp-upload.ouenggsd.100x100-75.png">
 * <img src="http://www.nikkei.com/content/pic/20120513/96958A9C93819499E3E2E2E29B8DE3E2E2E7E0E2E3E0E2E2E2E2E2E2-DSXZZO4124564010052012000000-PN1-15.png" />
 * <img src="http://tc2.search.naver.jp/?/kaze/mission/USER/20120228/76/717736/2/400x267x738838c83fdd4b0d538e4919.jpg/r.300x600" />
 * <img src="http://image.itmedia.co.jp/enterprise/articles/1111/11/fm2.jpg">
