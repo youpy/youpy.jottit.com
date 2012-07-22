@@ -1,3 +1,4 @@
+* 大人=生きるためならPHPだって書く
 * ロシアンスタイル=<img src="http://livedoor.blogimg.jp/ko_jo/imgs/b/6/b6ab0113.jpg">
 * 若大将=70歳代
 * 日本のスティーブ・ジョブズ=猪子寿之
