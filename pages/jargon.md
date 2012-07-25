@@ -1,3 +1,4 @@
+* びろーん=判決等速報用手持幡
 * 白旗=この白い旗に貴方の国旗を書いて下さい
 * 大人=生きるためならPHPだって書く
 * ロシアンスタイル=<img src="http://livedoor.blogimg.jp/ko_jo/imgs/b/6/b6ab0113.jpg">
