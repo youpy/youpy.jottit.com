@@ -1,5 +1,5 @@
+<img src="http://25.media.tumblr.com/tumblr_m9lpz2oqA81qzo3c9o1_500.jpg">
 <img src="http://www.asahicom.jp/digital_pr/article_images/TKY201201170679.jpg">
-<a href="http://www.cosplayshopper.com/" title="Cosplay">Cosplay</a>
 <img src="http://28.media.tumblr.com/tumblr_lkmdvhmbte1qz6rxuo1_500.jpg" />
 <img src="http://www.samurai.fm/rightrightright/rightrightright_profile.jpg" />
 <img src="http://1.bp.blogspot.com/_2j4oU6meCoY/St0EVLIlNoI/AAAAAAAAOXE/-22bxevprQc/s400/19aug14-big-ass-freak.jpg" />
