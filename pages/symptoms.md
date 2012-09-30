@@ -1,3 +1,4 @@
+* 極端な恥ずかしがり屋さん
 * 自分でやったほうが早い病
 * <img src="http://25.media.tumblr.com/tumblr_m97cocAmiv1qz6tfoo1_500.png" />
 * <img src="http://www.spiritsurfers.net/monastery/wp-content/uploads/abdominalpain4.jpg">
@@ -181,6 +182,7 @@
 * <img src="http://17.media.tumblr.com/09WUiM9Upn1g40j2g6qZvwZDo1_500.jpg" />
 * <img src="http://www.h3.dion.ne.jp/%7Eskmanabe/lecture.gif" />
 * <img src="http://tinyurl.com/d3vze8" />
+
 * アゴが荒れてる
 * あごギザギザになった
 * あごヘリコプターに変形して飛んでいった
