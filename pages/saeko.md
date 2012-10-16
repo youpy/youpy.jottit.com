@@ -1,3 +1,4 @@
+<img src="http://gbgm-umc.org/images/photobank/y0925.jpg" />
 <img src="http://1.bp.blogspot.com/-k9kWJZMvto8/UC0pGe7q3rI/AAAAAAAABLw/PfLbeySEolA/s1600/baru1-8.gif" />
 <img src="http://designyoutrust.com/wp-content/uploads/2011/06/ostrich.jpg"/>
 <img src="http://24.media.tumblr.com/tumblr_m4u8swEjgp1qzm2tio1_500.jpg" />
