@@ -1,3 +1,4 @@
+* <img src="http://pagead2.googlesyndication.com/simgad/14314322514083916288" />
 * 極端な恥ずかしがり屋さん
 * 自分でやったほうが早い病
 * <img src="http://25.media.tumblr.com/tumblr_m97cocAmiv1qz6tfoo1_500.png" />
