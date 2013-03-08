@@ -2,3 +2,5 @@
 
 <img src="https://dl.dropbox.com/u/334064/passing.png">
 
+<img src="http://acs.ist.psu.edu/images/404.jpg">
+
