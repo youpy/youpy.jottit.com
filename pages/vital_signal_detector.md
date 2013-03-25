@@ -20,7 +20,6 @@ a-2 CTG　コンピューター・ムービー No.2　1969年／約8分
 [a-3 ゲイリー・ヒル　電子言語学　1977年／約4分](http://ubu.com/film/hill_electronic.html)
 
 <img src="http://www.aac.pref.aichi.jp/bunjyo/jishyu/2009/aff14/s_img/a3.jpg">
-<a href="http://www.kitchencabinetkings.com/" title="kitchen cabinets kings">kitchen cabinets kings</a>
 ---
 [a-4 松本俊夫　メタスタシス　新陳代謝　1971年／約8分](http://ubu.artmob.ca/video/Toshio.Matsumoto.-.Experimental.film.works.-.2.3.-.Metastasis.(1971).avi)
 
