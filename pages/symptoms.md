@@ -1,3 +1,4 @@
+* <img src="http://mainichi.jp/graph/2013/03/26/20130326dde012040063000c/image/001.jpg">
 * 高城剛病
 * <img src="http://rr.img.naver.jp/mig?src=http%3A%2F%2Fimgcc.naver.jp%2Fkaze%2Fmission%2FUSER%2F20121217%2F74%2F737044%2F15%2F300x300xde9d95be3d379528fb8d3f3a.jpg%2F300%2F600&twidth=300&theight=600&qlt=80&res_format=jpg&op=r">
 * <img src="http://pagead2.googlesyndication.com/simgad/14314322514083916288" />
