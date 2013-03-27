@@ -1,3 +1,28 @@
+* awesome=ヤバい!
+* gnarls=イケてる
+* probs=一応
+* as if=みたいな
+* NOT!=ありえない!
+* whatevs=どうでもいい
+* ’tevs=どうでもいい
+* defs=間違いない
+* stoops=くだらない
+* totes=完全に
+* -wise=?的
+* status=?系
+* much?=よくする?
+* in charge=ヤバい
+* tight=ヤバい
+* sick=ヤバい
+* Redonk=超ヤバい
+* ridics=無理
+* delicious=おいしい
+* riffing=繰り返し
+* riffle effect=繰り返し効果
+* sowwie=ソウイー=ごめんなさい
+* noice=ノイス=ナイス
+* douche chills=超キモい
+* gross=ムカムカするほど気持ち悪い
 * NDS症候群=NなにかあったらDだれがSせきにん取るんだ？
 * ゆかし=見たい。聞きたい。知りたい。 
 * 自己出版=自己満足
