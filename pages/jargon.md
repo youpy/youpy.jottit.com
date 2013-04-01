@@ -1,3 +1,4 @@
+* TL;DR=Too Long; Don't Read
 * awesome=ヤバい!
 * gnarls=イケてる
 * probs=一応
