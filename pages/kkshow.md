@@ -1,3 +1,4 @@
+![](http://25.media.tumblr.com/c4c23a934096e1e1be83f31e0b9305c9/tumblr_mi1wdnG6AR1s4glejo1_1280.jpg)
 <img src="http://www.htzfm.com/Pics/Shows/kkshow3.jpg">
 
 <img arc="http://25.media.tumblr.com/tumblr_m692oufs671r4v4g3o1_500.jpg">
