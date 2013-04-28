@@ -1,3 +1,4 @@
+* TIRL = The Internet Is Real Life
 * サン=sound
 * サンクラ=soundcloud
 * サンレコ=サウンド＆レコーディング・マガジン
