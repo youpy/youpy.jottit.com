@@ -1,3 +1,4 @@
+* ワンコイン=500円
 * プリ=不倫
 * TIRL = The Internet Is Real Life
 * サン=sound
