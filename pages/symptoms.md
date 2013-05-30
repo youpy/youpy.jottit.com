@@ -22,7 +22,6 @@
 * 見えないものが見える、など幻視・幻覚的訴えをする。
 * 意味不明な言葉を発する、ろれつがまわらない。
 * おびえ、恐怖、恐怖感の訴え・表情
-* <img src="http://i.ytimg.com/vi/1REC8f_Q5HQ/hqdefault.jpg" />
 * ぜんぶ枯れた
 * まきびし踏んだ
 * ドアとれた
@@ -48,7 +47,6 @@
 * <img src="http://imgc.appbank.net/c/wp-content/uploads/2010/07/bijindou1.jpg" />
 * <img src="http://a1.phobos.apple.com/us/r30/Purple/5a/72/03/mzl.khiffymy.320x480-75.jpg" />
 * <img src="http://a1.phobos.apple.com/us/r1000/041/Purple/df/60/f4/mzl.rmrzdqkb.480x480-75.jpg" />
-* <a href="http://www.cosplayshopper.com/" title="Cosplay">Cosplay</a>
 * <img src="http://a1.phobos.apple.com/us/r1000/055/Purple/0c/2a/4a/mzl.gxqlyvca.320x480-75.jpg" />
 * <img src="http://a1.phobos.apple.com/us/r30/Purple/b3/c1/93/mzl.oxbwgikt.320x480-75.jpg" />
 * <img src="http://a1.phobos.apple.com/us/r1000/044/Purple/ce/ab/de/mzl.jqevuuun.320x480-75.jpg" />
@@ -158,8 +156,7 @@
 * <img src="http://www.fingerworks.com/images/new_hands/gen_hand_thumb_index_middle_ring_pinky_pinch_mirror.png" />
 * <img src="http://www.fingerworks.com/images/hands/arrows_horizontal_lefthand_spread.png">
 * <img src="http://farm3.static.flickr.com/2494/4025480615_3a1589e243.jpg" >
-* 
-<img src="http://blog-imgs-15-origin.fc2.com/w/a/r/waranote/91010-745.jpg" />
+* <img src="http://blog-imgs-15-origin.fc2.com/w/a/r/waranote/91010-745.jpg" />
 * <img src="http://www.sugisetsu.net/stretch/img/st03.gif" />
 * 頭痛圧ざわざわ感顔〈終〉
 * <img src="http://www.likeneveralways.com/images/disease.gif"/>
@@ -188,7 +185,6 @@
 * <img src="http://17.media.tumblr.com/09WUiM9Upn1g40j2g6qZvwZDo1_500.jpg" />
 * <img src="http://www.h3.dion.ne.jp/%7Eskmanabe/lecture.gif" />
 * <img src="http://tinyurl.com/d3vze8" />
-
 * アゴが荒れてる
 * あごギザギザになった
 * あごヘリコプターに変形して飛んでいった
