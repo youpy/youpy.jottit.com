@@ -6,5 +6,3 @@
 
 ![a-](http://gyazo.com/1a9907d37d45a81a2e6a7feec0fb355d.png)
 
-<a href="http://www.cosplayshopper.com/" title="Cosplay Costumes">Cosplay Costumes</a>
-
