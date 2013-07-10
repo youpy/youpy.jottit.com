@@ -7,7 +7,7 @@
 
 ---
 a-1 ナムジュン・パイク　ベル研究所での電子映像実験　1966年／約5分
-[ubu](http://www.ubu.com/film/paik.html)<a href="http://www.cosplayshopper.com/" title="cosplay costumes">cosplay costumes</a>
+[ubu](http://www.ubu.com/film/paik.html
 
 <img src="http://www.aac.pref.aichi.jp/bunjyo/jishyu/2009/aff14/s_img/a1.jpg">
 
