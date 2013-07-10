@@ -795,7 +795,6 @@
 - 白金乃露25度　1800ml
 - 山田の凱旋門25度 1800ml
 - 薩摩の麦焼酎25度 1800ml
-- <a href="http://www.cosplayshopper.com/" title="cosplay costumes">cosplay costumes</a>
 - なしか1800ｍｌ
 - 銀座のすずめ 黒麹1800ｍｌ
 - 巖窟王25度 1800ml
