@@ -325,7 +325,6 @@
 * BFF=親友
 * TTYN=Talk To You Never
 * TTYS=Talk To You Soon
-* <a href="http://www.cosplayshopper.com/" title="cosplay costumes">cosplay costumes</a>
 * 子供=作品
 * 膜拝=崇拝者にひれ伏す様子
 * nitro=ナイトロ
