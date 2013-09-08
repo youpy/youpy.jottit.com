@@ -1,3 +1,4 @@
+* ヘイトスピーチ=憎悪発言
 * MIF=Milk In First
 * MIA=Milk In After
 * KS=既読スルー
