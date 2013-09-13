@@ -1,3 +1,5 @@
+* \_\_init__=ダンダーイニット
+* \_\_proto__=ダンダープロト
 * ヘイトスピーチ=憎悪発言
 * MIF=Milk In First
 * MIA=Milk In After
