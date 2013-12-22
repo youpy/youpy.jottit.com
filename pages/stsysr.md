@@ -1,4 +1,4 @@
-<img src="http://tuning.musicair.co.jp/wordpress/wp-content/uploads/2010/03/John-Lennon.jpg" style="width:100%">
+<img src="http://tuning.musicair.co.jp/wordpress/wp-content/uploads/2010/03/John-Lennon.jpg"  width="100%">
 
 - 金を出してまずいものを食べる
 - 目的地に遠回りして行く
