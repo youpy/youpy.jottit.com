@@ -1,3 +1,4 @@
+* ユニコ=ユニコード
 * Unicode=ウイルス
 * 日本語文=（（（（詩）小説）論文）会話）
 * AYOR=As Your Own Risk
