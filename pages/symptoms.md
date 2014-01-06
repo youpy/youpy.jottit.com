@@ -1,3 +1,4 @@
+* <img src="http://a1.mzstatic.com/jp/r30/Purple6/v4/01/cf/aa/01cfaafb-6309-79a6-3c85-65c86e0665bf/screen568x568.jpeg"/>
 * <img src="http://www.eakon.jp/img/syotokatto1.jpg">
 * マッサージを受けたら骨折した
 * <img src="http://yangt3.c.blog.so-net.ne.jp/_images/blog/_bb0/yangt3/E3839CE383BCE383891-277e8.gif">
