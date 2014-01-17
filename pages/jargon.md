@@ -1,3 +1,4 @@
+* American=American Apparel
 * ビログ=ビデオブログ
 * 広告非表示=万引き
 * kkshow=(k)こんなことで(k)クヨクヨしてても(show)しょうがない
