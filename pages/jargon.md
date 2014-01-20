@@ -1,3 +1,4 @@
+* サラダバー = <img src="http://i4.mirror.co.uk/incoming/article3011820.ece/ALTERNATES/s615/Preachers-eat-grass-3011820.jpg">
 * American=American Apparel
 * ビログ=ビデオブログ
 * 広告非表示=万引き
