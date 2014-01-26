@@ -1,3 +1,4 @@
+* 鼻毛を抜くと死亡する
 * ちょうどいい人間が乱交をする
 * With the iPad, anything is possible.
 * 韓国のチキンはうまい
