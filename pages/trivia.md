@@ -1,3 +1,5 @@
+* COACHを持ってる女の人は大体処女
+* HIPHOPに詳しい女の人はだいたいネカマ
 * 鼻毛を抜くと死亡する
 * ちょうどいい人間が乱交をする
 * With the iPad, anything is possible.
