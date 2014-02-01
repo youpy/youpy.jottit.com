@@ -1,3 +1,4 @@
+* すご～い=おまえはもう喋らなくていい
 * サラダバー = <img src="http://i4.mirror.co.uk/incoming/article3011820.ece/ALTERNATES/s615/Preachers-eat-grass-3011820.jpg" style="width:300px;height:auto;">
 * American=American Apparel
 * ビログ=ビデオブログ
