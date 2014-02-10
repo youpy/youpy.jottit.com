@@ -1,3 +1,5 @@
+* ネット=家入
+* 起業家=与沢
 * m9=顔文字「m9(^Д^)」、ことプギャーの略
 * すご～い=おまえはもう喋らなくていい
 * サラダバー = <img src="http://i4.mirror.co.uk/incoming/article3011820.ece/ALTERNATES/s615/Preachers-eat-grass-3011820.jpg" style="width:300px;height:auto;">
