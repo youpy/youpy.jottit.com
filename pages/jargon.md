@@ -1,3 +1,4 @@
+* セルカン=セルフカウンセリング
 * FFT=FINAL FANTASY TACTICS
 * e-digging=インターネット上でいい音楽を探すこと
 * 夢=独立=鍼灸師
