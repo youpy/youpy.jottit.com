@@ -1,4 +1,4 @@
-<img src="http://www.iza.ne.jp/images/news/20081219/138326_c450.jpg" alt="加瀬亮">
+<img src="http://i.imgur.com/68LpTFy.jpg" alt="加瀬亮">
 
 
 * 加瀬亮
