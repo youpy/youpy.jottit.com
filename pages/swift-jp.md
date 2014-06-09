@@ -1,6 +1,6 @@
 <img src="http://www.bk.mufg.jp/imgs/top/renew/ttl_import.gif">
 
-<img src="http://www.bk.mufg.jp/imgs/top/renew/img_import.gif"> Appleが公表した新プログラミング言語「Swift」についての資料を日本語化するプロジェクトです!
+<img src="http://www.bk.mufg.jp/imgs/top/renew/img_import.gif"> <marquee style="width:900px;border:solid 1px #CCC;">Appleが公表した新プログラミング言語「Swift」についての資料を日本語化するプロジェクトです!</marquee>
 
 <img src="http://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/LXDE-logo.svg/551px-LXDE-logo.svg.png">
 
