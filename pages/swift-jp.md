@@ -15,20 +15,19 @@
 
 <img src="http://upload.wikimedia.org/wikipedia/commons/e/e9/Taylor_Swift_Speak_Now_Tour_2011_4.jpg">
 
-<hr>
+
 
 <img src="http://www.suzuki.co.jp/car/swift/home/img/btn_accessory.jpg">
 
-<div>
+
 <img src="http://www.geeky-gadgets.com/wp-content/uploads/2009/10/ctrl-shift-key-lamp_2.jpg">
 
-<img    src="http://asset.zcache.com/assets/graphics/s.gif">
+<img
+ style ="float:left; " src="http://asset.zcache.com/assets/graphics/s.gif">
 
 <img  src="http://www.s-alto.jp/images/top_main_img_3.jpg">
 
 <img src="http://gyazo.com/691368dbb1ec83e8db3fc7c33d67ac08.png">
-
-</div>
 
 <hr>
 
