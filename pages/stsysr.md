@@ -1,3 +1,4 @@
+- <img src="http://livedoor.blogimg.jp/ken_fujimoto/imgs/c/b/cbfe2a95.jpg">
 - すいとんにはテンプン質のざらつきが足りない
 - <img src="http://tuning.musicair.co.jp/wordpress/wp-content/uploads/2010/03/John-Lennon.jpg"  width="100%">
 - 金を出してまずいものを食べる
