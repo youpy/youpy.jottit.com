@@ -1,3 +1,4 @@
+* free for a limited time
 * によろしく
 * .zip
 * （100点満点中）
