@@ -1,3 +1,4 @@
+* …ｺﾞﾌｯｺﾞﾌｯ 
 * free for a limited time
 * によろしく
 * .zip
